@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# CURA VÍCIO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`EIXO 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto pretende contribuir com a redução do número de dependentes químicos, desse modo o objetivo central é o desenvolvimento de uma plataforma web capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de dependências química de forma gratuita.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Nakhata Lopes Ruas Nhimi
+* Tiago Del Puppo Favilla Lobo
+* Paulo Hyure Eufrasio Pereira
+* Gervasio Felipe Ferreira Duarte
+* Vinicius Luiz Alves De Oliveira
+* Pedro Henrique De Assis Freitas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina De Paiva Carvalho
 
 ## Instruções de utilização
 
