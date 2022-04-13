@@ -1,18 +1,17 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A Organização Mundial da Saúde (OMS) considera que a dependência em drogas lícitas ou ilícitas é uma doença. O uso indevido de substâncias como álcool, cigarro, crack e cocaína é um problema de saúde pública de ordem internacional que preocupa nações do mundo inteiro, pois afeta valores culturais, sociais, econômicos e políticos. (MINISTÉRIO DA SAÚDE BR, 2022) 
+
+De acordo com a linha de abordagem da psicanálise; entender a dependência química não é algo tão simples quanto parece, e que na verdade quando se fala que tal sujeito se encontra sob o domínio de substâncias tóxicas, esse sujeito em uma primeira visão é visto como um marginal, vagabundo, alguém que não quer nada com nada e etc. Essa é uma visão do senso comum que são céticos em relação a esse problema. Inicialmente quando se descobre que alguém de nossa família ou próximo a nós possui alguma dependência química essa relação passa a mudar de figura, sendo assim aí começam a se perguntar onde foi que erraram, porque esse sujeito foi por esse caminho, são tantas as perguntas e culpas que os familiares sentem que acabam se tornando codependente dessa doença, doença essa que é incurável, mas que pode ser controlada tanto inicialmente quanto em níveis mais avançados. (CLÍNICA JORGE JABER RJ, 2018)  
+
+Considerando a jurisprudência em relação à dependência química, podemos ressaltar que um dependente químico na maioria dos casos não usaria o próprio dinheiro para procurar ajuda, o que faz com que o Estado continue a criar programas para tentar amenizar estes efeitos sociais, isso nos demonstra que a gratuidade é importante neste contexto. (TRT MG, 2012). 
+
+ 
+
+Analisando os programas destinados a dependentes químicos existentes em Minas Gerais observamos que a rede SUS oferece tratamentos por meio de órgãos como: Centro de Referência em Álcool e Drogas (Cread), Secretaria de Estado e Segurança Pública (SOS Drogas), Centro de Referência em Saúde Mental (CERSAM), Centro de Terapias e Assistência Social (CETAS), Ambulatório de Dependentes Químicos do Hospital das Clínicas, além de que possivelmente existam outros projetos filantrópicos e até clínicas gratuitas para este fim. Conforme foi introduzido ao contexto do projeto sabemos que apesar dos programas existentes, não só em Minas Gerais como pelo Brasil e o Mundo, refletimos que estes programas contribuem, mas não são os suficientes para agirem em prol da redução dos números deste problema social. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Dependentes químicos e codependentes sofrem com a carência de informações referentes aos vícios, e a indisponibilidade de profissionais de saúde e a falta de acesso a grupos de apoio. Em plena era da informação, o país carece de uma plataforma web gratuita que integre informações e facilite o acesso dos dependentes a formas mais efetivas para o seu tratamento. 
 
 ## Objetivos
 
