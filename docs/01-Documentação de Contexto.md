@@ -15,13 +15,19 @@ Dependentes químicos e codependentes sofrem com a carência de informações re
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral é a criação de uma plataforma web gratuita capaz auxiliá-los de forma educativa (com base nas últimas evidências científicas) e com a organização de grupos de apoio ou, ainda, indicando profissionais de saúde e clínicas mais próximas. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+Como objetivos específicos, podemos elencar: 
+
+ 
+
+Permitir ao dependente químico ou codependente se cadastrar e gerar um perfil específico para entregar informações e funcionalidades baseadas no seu tipo de dependência; 
+
+Possibilitar que um “padrinho” ou “madrinha” possa interceder pelo dependente ou codependente acessando a plataforma pelos mesmos, em casos de falta de infraestrutura e apoio; 
+
+Permitir aos usuários terem acesso a contatos de profissionais de saúde locais e aos que possibilitam atendimento remoto; inclusive disponibilizar o contato e localização de grupos de apoio e clínicas. 
 ## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
