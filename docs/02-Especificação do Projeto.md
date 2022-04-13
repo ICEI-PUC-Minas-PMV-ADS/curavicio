@@ -1,20 +1,15 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidadas com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na tabelas que seguem:
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-|JOÃO DA SILVA - PADRINHO OU VOLUNTÁRIO| 
-|`MOTIVAÇÕES`| `FRUSTRAÇÕES` | `HOBBIES / HISTÓRIA` |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| | `USUÁRIO` |`MOTIVAÇÕES`| `FRUSTRAÇÕES` | `HOBBIES / HISTÓRIA` |
+|----------------------|----------------------|--------------------|--------------------|------------------------|
+| <Img src="https://user-images.githubusercontent.com/59934631/163286435-119bb54c-c0ad-4386-a166-48f68eebcb3e.png"> | Eliana Sanches | Vivenciar experiências em serviços sociais, ser empática é sua maior qualidade. | Querer ajudar e descobrir que as pessoas não quererem ajuda.  |Gosta de atividades interativas que sejam ao ar livre, ela vem de família simples, mas como foi bem instruída buscou se graduar em pedagogia.
+|Administrador | Alterar permissões | Permitir que possam administrar contas |  |
 
 ## Histórias de Usuários
 
