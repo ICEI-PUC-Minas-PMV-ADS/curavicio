@@ -30,12 +30,24 @@ Possibilitar que um “padrinho” ou “madrinha” possa interceder pelo depen
 Permitir aos usuários terem acesso a contatos de profissionais de saúde locais e aos que possibilitam atendimento remoto; inclusive disponibilizar o contato e localização de grupos de apoio e clínicas. 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+De acordo com os dados da pesquisa da OMS do censo de 2021, cerca de 6% da
+população brasileira atual tem alguma dependência química. Isso totaliza um
+contingente de 12,4 milhões de pessoas. O Relatório Mundial sobre Drogas de 2021
+avalia que a pandemia potencializou os riscos à dependência. De acordo com os
+estudos organizados pela Lenad Família, a instituição que faz levantamentos a
+respeito do uso de drogas no Brasil, revela que quase 30 milhões de cidadãos
+brasileiros conhecem um familiar que possui uma dependência química. (TERRA BR,
+2021)
+Os dependentes químicos ou codependentes que queiram se informar sobre as
+maneiras de como tratar as dependências químicas, encontram na internet
+informações difusas e muitas das vezes incertas ou desorganizadas, além do acesso
+ser dificultado a encontrar informações referentes a grupos de apoio e profissionais
+de saúde. Um sistema web focado nestes usuários possibilitaria a oportunidade de
+encontrar com mais facilidade informações relevantes para cada contexto de
+dependência química, encontrando o um apoio profissional, inclusive com a
+possibilidade de agendar com grupos de apoio e consultas com profissionais de
+saúde, podendo existir estes apoios de forma remota, desse modo poderia ser de
+grande ajuda para os adictos do país.
 
 ## Público-Alvo
 
