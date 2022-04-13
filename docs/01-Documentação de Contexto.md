@@ -6,28 +6,24 @@ De acordo com a linha de abordagem da psicanálise; entender a dependência quí
 
 Considerando a jurisprudência em relação à dependência química, podemos ressaltar que um dependente químico na maioria dos casos não usaria o próprio dinheiro para procurar ajuda, o que faz com que o Estado continue a criar programas para tentar amenizar estes efeitos sociais, isso nos demonstra que a gratuidade é importante neste contexto. (TRT MG, 2012). 
 
- 
-
 Analisando os programas destinados a dependentes químicos existentes em Minas Gerais observamos que a rede SUS oferece tratamentos por meio de órgãos como: Centro de Referência em Álcool e Drogas (Cread), Secretaria de Estado e Segurança Pública (SOS Drogas), Centro de Referência em Saúde Mental (CERSAM), Centro de Terapias e Assistência Social (CETAS), Ambulatório de Dependentes Químicos do Hospital das Clínicas, além de que possivelmente existam outros projetos filantrópicos e até clínicas gratuitas para este fim. Conforme foi introduzido ao contexto do projeto sabemos que apesar dos programas existentes, não só em Minas Gerais como pelo Brasil e o Mundo, refletimos que estes programas contribuem, mas não são os suficientes para agirem em prol da redução dos números deste problema social. 
 
 ## Problema
+
 Dependentes químicos e codependentes sofrem com a carência de informações referentes aos vícios, e a indisponibilidade de profissionais de saúde e a falta de acesso a grupos de apoio. Em plena era da informação, o país carece de uma plataforma web gratuita que integre informações e facilite o acesso dos dependentes a formas mais efetivas para o seu tratamento. 
 
 ## Objetivos
 
 O objetivo geral é a criação de uma plataforma web gratuita capaz auxiliá-los de forma educativa (com base nas últimas evidências científicas) e com a organização de grupos de apoio ou, ainda, indicando profissionais de saúde e clínicas mais próximas. 
 
- 
-
 Como objetivos específicos, podemos elencar: 
-
- 
 
 Permitir ao dependente químico ou codependente se cadastrar e gerar um perfil específico para entregar informações e funcionalidades baseadas no seu tipo de dependência; 
 
 Possibilitar que um “padrinho” ou “madrinha” possa interceder pelo dependente ou codependente acessando a plataforma pelos mesmos, em casos de falta de infraestrutura e apoio; 
 
 Permitir aos usuários terem acesso a contatos de profissionais de saúde locais e aos que possibilitam atendimento remoto; inclusive disponibilizar o contato e localização de grupos de apoio e clínicas. 
+
 ## Justificativa
 
 De acordo com os dados da pesquisa da OMS do censo de 2021, cerca de 6% da
@@ -38,6 +34,7 @@ estudos organizados pela Lenad Família, a instituição que faz levantamentos a
 respeito do uso de drogas no Brasil, revela que quase 30 milhões de cidadãos
 brasileiros conhecem um familiar que possui uma dependência química. (TERRA BR,
 2021)
+
 Os dependentes químicos ou codependentes que queiram se informar sobre as
 maneiras de como tratar as dependências químicas, encontram na internet
 informações difusas e muitas das vezes incertas ou desorganizadas, além do acesso
