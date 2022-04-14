@@ -38,8 +38,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
 |RNF-01 | O site deve apresentar uma lista de membros interdisciplinares, para auxiliar ao tratamento de dependentes químicos. | ALTA | 
 |RNF-02 | O site deve possibilitar a busca de clínicas de tratamento e grupos de apoio a dependentes químicos por localidade.|  MÉDIA | 
 |RNF-03 | O site deve permitir ao usuário, visualizar notícias e informações sobre tratamento de dependências químicas. | MÉDIA | 
