@@ -16,22 +16,17 @@ As personas levantadas durante o processo de entendimento do problema são apres
 | <Img src="https://user-images.githubusercontent.com/59934631/163289142-11fdcda5-3d3d-4aa7-8b92-8b45b43873be.png">   Izak Menezes (codependente), 34 anos, Cabelereiro | Valores familiares, mudar de vida através do seu trabalho como Cabeleireiro e buscar agregar sempre seus valores. | Não ter um bom relacionamento com seu irmão que é dependente químico. | Jogar paintball com os amigos e passear em família. Vem de família simples do aglomerado onde cresceu e tentou ser a referência para seu irmão mais novo, mas o perdeu para as drogas e não conseguiu desde então estabelecer uma conexão de confiança, desde então tem na igreja seu refúgio espiritual. |
 
 ## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+ 
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Eliana Sanches (Madrinha ou voluntária)|Ajudar um desconhecido dependente químico|Para aconselha-lo de que é possível se livrar da dependência química|
+|João da Silva (Padrinho ou voluntário)|Tomar frente em relação a procura de ajuda para um amigo/conhecido dependente químico|Para tornar mais fácil a tomada de decisão do dependente químico|
+|Carlos Gomes (Dependente químico)|Ele deseja encontrar dicas de como se ver livre do uso de entorpecentes|Para conseguir se autogerenciar e seguir com seu tratamento|
+|Melina Dias (Dependente química)|Visualizar informações especificas sobre tipos de vícios|Encontrar informações relevantes ao seu perfil como uma pessoa dependente química|
+ |Marilia Mendes (Voluntária)|Ajudar pessoas no processo de reabilitação de dependências químicas de forma gratuita|Para poder oferecer ajuda especializada gratuita|
+ |Isak Menezes (Codependente)|Visualizar informações relevantes sobre dependências químicas|Encontrar informações relevantes e soluções gratuitas|
 
 ## Requisitos
 
