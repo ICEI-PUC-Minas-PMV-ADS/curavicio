@@ -36,21 +36,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
-|RN-01|O site deve apresentar uma lista de membros interdisciplinares, para auxiliar ao tratamento de dependentes químicos.|ALTA| 
-|RN-02|O site deve possibilitar a busca de clínicas de tratamento e grupos de apoio a dependentes químicos por localidade.|MÉDIA| 
-|RN-03|O site deve permitir ao usuário, visualizar notícias e informações sobre tratamento de dependências químicas. |MÉDIA| 
-|RN-04|O site deve permitir ao usuário, entrar em contato com membros interdisciplinares.|MÉDIA| 
-|RN-05|O site deve apresentar, uma lista de clínicas especializadas e grupos de apoio.|ALTA|
+|RF-01|O site deve apresentar uma lista de membros interdisciplinares, para auxiliar ao tratamento de dependentes químicos.|ALTA| 
+|RF-02|O site deve possibilitar a busca de clínicas de tratamento e grupos de apoio a dependentes químicos por localidade.|MÉDIA| 
+|RF-03|O site deve permitir ao usuário, visualizar notícias e informações sobre tratamento de dependências químicas. |MÉDIA| 
+|RF-04|O site deve permitir ao usuário, entrar em contato com membros interdisciplinares.|MÉDIA| 
+|RF-05|O site deve apresentar, uma lista de clínicas especializadas e grupos de apoio.|ALTA|
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RN-01|O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages).|ALTA| 
-|RN-02|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.|ALTA| 
-|RN-03|O site deve ter bom nível de contraste entre os elementos da tela em conformidade.|MÉDIA| 
-|RN-04|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA| 
+|RNF-01|O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages).|ALTA| 
+|RNF-02|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.|ALTA| 
+|RNF-03|O site deve ter bom nível de contraste entre os elementos da tela em conformidade.|MÉDIA| 
+|RNF-04|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|ALTA| 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
