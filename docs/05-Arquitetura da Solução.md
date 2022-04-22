@@ -59,7 +59,7 @@ para a Tela 2.
 
 Utilizamos o Front-end Frameworks no GitHub que basicamente transforma dados numa interface gráfica 
 por intermédio do uso de linguagens de programação como CSS, HTML e JavaScript,também vários sites:
-microsoft word, microsoft teams, Trello, Lucid, ao qual foram utilizados para gerenciar terefas, reuniões, 
+microsoft word, microsoft teams, Trello, Lucid, whimsical, ao qual foram utilizados para gerenciar terefas, reuniões, 
 criar organogramas e fluxogramas no decorrer do projeto, também foi usado como base o aplicativo de celular 
 Anonymo voltado para o tratamento de usuários de drogas. 
 
