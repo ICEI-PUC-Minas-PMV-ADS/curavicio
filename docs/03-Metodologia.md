@@ -52,36 +52,23 @@ A equipe foi organizada da seguinte maneira:
 
 ### Processo
 
-Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  Trello 
-estruturado com as seguintes listas:
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  Trello estruturado com as seguintes listas:
 
-● Recursos: esta lista mantém template de tarefas recorrentes com as configurações 
-padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates 
-para agilizar a criação de novos cartões.
-● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
-Todas as atividades identificadas no decorrer do projeto também devem ser 
-incorporadas a esta lista.
-● To  Do:  Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos 
-trabalhando.
-● Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-● Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas 
-para  o  “CQ”.  No  final  da  semana,  eu  revejo  essa  lista  para  garantir  que  tudo  saiu 
-perfeito.
+● Product Backlog:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um 'milestone', que pressupõe uma entrega final.
+● Sprint Backlog:  tarefas listadas no Product Backlog são detalhadas e divididas em sprints; 
+● In Progress: quando uma tarefa do Sprint Backlog tiver sido iniciada, ela é movida para cá.
 ● Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
 qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou 
-revisões necessárias, ele está agendado e pronto para a ação.
-● Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta 
-lista juntamente com um comentário sobre o que está travando a tarefa.
+revisões necessárias.
 
-O quadro kanban do grupo no Trello está disponível através da URL 
-https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura X. A 
-definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+O quadro kanban do grupo no GitHub está disponível através da URL 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/projects/1 e é apresentado, no estado atual, na Figura abaixo.
 
-
+<Img src="https://user-images.githubusercontent.com/59934631/164791742-d41a6102-a59c-4698-af45-c5f41016ff15.PNG">https://user-
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas empregadas no projeto são descritas na tabela abaixo:
 
 |FUNÇÃO| PLATAFORMA |LINK DE ACESSO|
 |--------------------|------------------------------------|----------------------------------------|
@@ -93,15 +80,3 @@ As ferramentas empregadas no projeto são:
 |Ferramentas de Comunição|Teams e WhatsApp|----------------------------------------|
 
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
