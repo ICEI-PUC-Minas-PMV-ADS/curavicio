@@ -63,10 +63,6 @@ microsoft word, microsoft teams, Trello, Lucid, ao qual foram utilizados para ge
 criar organogramas e fluxogramas no decorrer do projeto, também foi usado como base o aplicativo de celular 
 Anonymo voltado para o tratamento de usuários de drogas. 
 
-(Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.)
-
 
 ## Hospedagem
 
