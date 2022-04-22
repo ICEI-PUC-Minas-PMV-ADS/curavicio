@@ -31,12 +31,14 @@ A equipe foi organizada da seguinte maneira:
 
 - Product Owner: Profª. Joyce Christina de Paiva Carvalho 
 - Scrum Master: Tiago Del Puppo Favilla Lobo
-- Equipe de Desenvolvimento e Design:
- - Gabriel Nakhata Lopes Ruas Nhimi
- - Paulo Hyure Eufrasio Pereira
- - Gervasio Felipe Ferreira Duarte
- - Vinicius Luiz Alves De Oliveira
- - Pedro Henrique De Assis Freitas
+ 
+Equipe de Desenvolvimento e Design:
+ 
+- Gabriel Nakhata Lopes Ruas Nhimi
+- Paulo Hyure Eufrasio Pereira
+- Gervasio Felipe Ferreira Duarte
+- Vinicius Luiz Alves De Oliveira
+- Pedro Henrique De Assis Freitas
 
 ### Processo
 
@@ -57,7 +59,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vic
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são descritas na tabela abaixo:
+As ferramentas empregadas no projeto estão descritas na tabela abaixo:
 
 |FUNÇÃO| PLATAFORMA |LINK DE ACESSO|
 |--------------------|------------------------------------|----------------------------------------|
