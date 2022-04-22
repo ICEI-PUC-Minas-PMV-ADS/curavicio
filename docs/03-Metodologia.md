@@ -55,8 +55,11 @@ A equipe foi organizada da seguinte maneira:
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  Trello estruturado com as seguintes listas:
 
 ● Product Backlog:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um 'milestone', que pressupõe uma entrega final.
+
 ● Sprint Backlog:  tarefas listadas no Product Backlog são detalhadas e divididas em sprints;
-● In Progress: quando uma tarefa do Sprint Backlog tiver sido iniciada, ela é movida para cá.
+
+● In Progress: quando uma tarefa do Sprint Backlog tiver sido iniciada, ela é movida para cá;
+
 ● Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou revisões necessárias.
 
 O quadro kanban do grupo no GitHub está disponível através da URL 
