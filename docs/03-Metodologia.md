@@ -35,15 +35,49 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis e Gerenciamento do Projeto
+A equipe escolheu o Scrum, uma metodologia ágil, como base para o planehamento e gereciamento do projeto. Esta é uma metodologia efetiva, simples e flexível para pequenas equipes, deixando o projeto passível de sofrer incrementos a cada nova Sprint.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+### Divisão de Papéis
+
+A equipe foi organizada da seguinte maneira:
+
+- Product Owner: Profª. Joyce Christina de Paiva Carvalho 
+- Scrum Master: Tiago Del Puppo Favilla Lobo
+- Equipe de Desenvolvimento e Design:
+ - Gabriel Nakhata Lopes Ruas Nhimi
+ - Paulo Hyure Eufrasio Pereira
+ - Gervasio Felipe Ferreira Duarte
+ - Vinicius Luiz Alves De Oliveira
+ - Pedro Henrique De Assis Freitas
+
+### Processo
+
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  Trello 
+estruturado com as seguintes listas:
+
+● Recursos: esta lista mantém template de tarefas recorrentes com as configurações 
+padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates 
+para agilizar a criação de novos cartões.
+● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
+Todas as atividades identificadas no decorrer do projeto também devem ser 
+incorporadas a esta lista.
+● To  Do:  Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos 
+trabalhando.
+● Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+● Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas 
+para  o  “CQ”.  No  final  da  semana,  eu  revejo  essa  lista  para  garantir  que  tudo  saiu 
+perfeito.
+● Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
+qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou 
+revisões necessárias, ele está agendado e pronto para a ação.
+● Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta 
+lista juntamente com um comentário sobre o que está travando a tarefa.
+
+O quadro kanban do grupo no Trello está disponível através da URL 
+https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura X. A 
+definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+
+
 
 ### Ferramentas
 
