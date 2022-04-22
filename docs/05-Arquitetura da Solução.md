@@ -19,7 +19,7 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** 
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens.
    - **Local Storage** 
- - **News API** - GitHub Rest API's.
+ - **News API** - Google Maps, Whatsapp e Google Meet.
  - **Hospedagem** - GitHub. 
 
 > **Links Úteis**:
@@ -58,8 +58,8 @@ para a Tela 2.
 ## Tecnologias Utilizadas
 
 Utilizamos o Front-end Frameworks no GitHub que basicamente transforma dados numa interface gráfica 
-por intermédio do uso de linguagens de programação como CSS, HTML e JavaScript,também vários sites:
-microsoft word, microsoft teams, Trello, Lucid, whimsical, ao qual foram utilizados para gerenciar terefas, reuniões, 
+por intermédio do uso de linguagens de programação como CSS, HTML e JavaScript,também vários sites e programas como:
+microsoft word, microsoft teams, Trello, Lucid, whimsical, google maps,whatsapp, google meet, ao qual foram utilizados para gerenciar terefas, reuniões, 
 criar organogramas e fluxogramas no decorrer do projeto, também foi usado como base o aplicativo de celular 
 Anonymo voltado para o tratamento de usuários de drogas. 
 
