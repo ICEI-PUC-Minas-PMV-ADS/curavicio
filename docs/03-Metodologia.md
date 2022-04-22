@@ -9,7 +9,7 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-O projeto segue a seguinte fluxo de trabalho:
+O projeto segue o seguinte fluxo de trabalho:
 
 <Img src="https://user-images.githubusercontent.com/59934631/164794368-739291c2-9ffa-4d38-ae37-640a3dc633b8.png">
 
@@ -62,7 +62,7 @@ As ferramentas empregadas no projeto são descritas na tabela abaixo:
 |FUNÇÃO| PLATAFORMA |LINK DE ACESSO|
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório de Código Fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
-|User Flow|LucidChart|LucidChart|https://lucid.app/|
+|User Flow|LucidChart|LucidChart|https://www.lucidchart.com/|
 |Projeto de Interface - Wireframe|Figma|https://www.figma.com/|
 |Editor de Código|VS Code|https://code.visualstudio.com/|
 |Documentação de projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
