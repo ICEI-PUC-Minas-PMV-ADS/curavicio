@@ -1,7 +1,7 @@
 
 # Metodologia
 
-A  metodologia  contempla  as  definições  de  ferramental  utilizado  pela  equipe  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
+A  metodologia  contempla  as  definições  de  ferramental  utilizado  pela  equipe,  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
 
 ## Controle de Versão
 
