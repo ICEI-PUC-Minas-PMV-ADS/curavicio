@@ -9,29 +9,17 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-O projeto segue a seguinte convenção para o nome de branches:
+O projeto segue a seguinte fluxo de trabalho:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+<Img src="https://user-images.githubusercontent.com/59934631/164794368-739291c2-9ffa-4d38-ae37-640a3dc633b8.png">
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+As ramificações podem ser descritas como:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+- `Master`: versão original ou espelho da versão atual da aplicação;
+- `Develop`: cópia da ramificação 'Master" com funcionalidades ainda não publicadass (base para 'Feature');
+- `Feature`: ramificação temporária e auxiliar, contendo uma nova funcionalidade específica;
+- `Hotfix`: ramificação temporária e auxiliar, que contém correções rápidas a serem incluídas direto nas  ramificações 'Main' e 'Develop';
+- `Release`: ramificação que une os que está pronto em 'Develop' e inclui na 'Main' e a partir daí é criada uma nova versão da aplicação.
 
 ## Gerenciamento de Projeto
 
@@ -75,9 +63,7 @@ As ferramentas empregadas no projeto são descritas na tabela abaixo:
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório de Código Fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
 |User Flow|LucidChart|LucidChart|https://lucid.app/|
-|Projeto de Interface - Wireframe|Figma e Adobe XD|https://www.figma.com/|
-|Editor de Código|VS Code|----------------------------------------|
-|Documentação de projeto|GitHub|----------------------------------------|
-|Ferramentas de Comunição|Teams e WhatsApp|----------------------------------------|
-
-
+|Projeto de Interface - Wireframe|Figma|https://www.figma.com/|
+|Editor de Código|VS Code|https://code.visualstudio.com/|
+|Documentação de projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
+|Ferramentas de Comunição|Teams e WhatsApp|https://teams.microsoft.com/l/team/19%3aNfxX3vLhDj2FZTHnJ-Bn2mvA6jFD73yhDvm0JQUmEJc1%40thread.tacv2/conversations?groupId=d1e08399-07d6-45c6-a10b-55b7a8d1763f&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161|
