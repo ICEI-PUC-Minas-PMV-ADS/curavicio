@@ -1,7 +1,5 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
 ## Diagrama de componentes
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
@@ -19,11 +17,11 @@ A solução implementada conta com os seguintes módulos:
 
 ## Tecnologias Utilizadas
 
-Utilizamos o Front-end Frameworks no GitHub que basicamente transforma dados numa interface gráfica 
+Utilizamos o Front-end no GitHub que basicamente transforma dados numa interface gráfica 
 por intermédio do uso de linguagens de programação como CSS, HTML e JavaScript,também vários sites e programas como:
-microsoft word, microsoft teams, Trello, Lucid, whimsical, google maps,whatsapp, google meet, ao qual foram utilizados para gerenciar terefas, reuniões, 
-criar organogramas e fluxogramas no decorrer do projeto, também foi usado como base o aplicativo de celular 
-Anonymo voltado para o tratamento de usuários de drogas. 
+microsoft word, microsoft teams,github projects , Lucid, whimsical, google maps, whatsapp, google meet, ao qual foram utilizados
+para gerenciar terefas, reuniões, criar organogramas e fluxogramas no decorrer do projeto, também foi usado como base o
+aplicativo de celular Anonymo voltado para o tratamento de usuários de drogas. 
 
 
 ## Hospedagem
