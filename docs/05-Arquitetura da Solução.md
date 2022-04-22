@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164815566-065420db-d235-4814-93f1-2eb783036fc1.png)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
@@ -21,8 +21,6 @@ A solução implementada conta com os seguintes módulos:
    - **Local Storage** 
  - **News API** - Google Maps, Whatsapp e Google Meet.
  - **Hospedagem** - GitHub. 
-
-![UserFlow]()
 
 
 ## Tecnologias Utilizadas
