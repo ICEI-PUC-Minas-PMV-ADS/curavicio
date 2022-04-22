@@ -22,7 +22,7 @@ A solução implementada conta com os seguintes módulos:
  - **News API** - Google Maps, Whatsapp e Google Meet.
  - **Hospedagem** - GitHub. 
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![UserFlow](https://whimsical.com/QcFEKeUXJ1vqkAQpYAokev)
 
 
 ## Tecnologias Utilizadas
