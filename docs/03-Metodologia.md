@@ -1,9 +1,7 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A  metodologia  contempla  as  definições  de  ferramental  utilizado  pela  equipe  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
 
 ## Controle de Versão
 
@@ -37,16 +35,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-### Processo
+### Divisão de Papéis e Gerenciamento do Projeto
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
@@ -60,6 +49,16 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
+|FUNÇÃO| PLATAFORMA |LINK DE ACESSO|
+|--------------------|------------------------------------|----------------------------------------|
+|Repositório de Código Fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
+|User Flow|LucidChart|LucidChart|https://lucid.app/|
+|Projeto de Interface - Wireframe|Figma e Adobe XD|https://www.figma.com/|
+|Editor de Código|VS Code|----------------------------------------|
+|Documentação de projeto|GitHub|----------------------------------------|
+|Ferramentas de Comunição|Teams e WhatsApp|----------------------------------------|
+
+
 - Editor de código.
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (_wireframing_)
@@ -72,6 +71,3 @@ necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
