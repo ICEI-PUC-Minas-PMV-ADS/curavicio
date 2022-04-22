@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164815566-065420db-d235-4814-93f1-2eb783036fc1.png)
+![Diagrama de Componentes](hhttps://user-images.githubusercontent.com/100388026/164816133-6379b88d-83d4-49e6-b543-0cf10cc32266.png)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
