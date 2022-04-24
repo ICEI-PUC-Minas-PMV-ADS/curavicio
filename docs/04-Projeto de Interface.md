@@ -36,3 +36,7 @@ Seguindo o fluxo de usuários no cabeçalho segue o próximo link que gera a tel
 
 Como se sugere ao contexto da última tela seguimos o fluxo de usuários no cabeçalho com próximo link Artigos Cientifícos.
 
+<img src="https://user-images.githubusercontent.com/86859418/164996139-1e39c526-8033-4012-b40b-d1cbd1aaf9a6.jpg">
+
+Seguindo o fluxo de usuários ainda aos tópicos principais temos o link para a tela de Clínicas de Tratamento e Grupos de Apoio.
+
