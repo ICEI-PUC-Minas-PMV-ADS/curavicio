@@ -27,5 +27,8 @@ A Landing Page representa a estrutura padrão para todas as outras telas, onde c
 <img src="https://user-images.githubusercontent.com/86859418/164994954-aab84eb6-dc52-4d92-b04e-f720dd0754af.jpg">
 
 Ao clicar na link Blog Cura Vício no cabeçalho é gerado na "estrutura conteúdo" a tela do Blog. 
- 
+
+<img src="https://user-images.githubusercontent.com/86859418/164995383-d6a1c37a-029a-4757-bed1-056a7968593e.jpg">
+
+Seguindo o fluxo de usuários no cabeçalho segue o próximo link que gera a tela de Dependências Químicas.
 
