@@ -46,4 +46,10 @@ Seguindo o fluxo de usuários temos o até então útlimo tópico com o link par
 
 <img src="https://user-images.githubusercontent.com/86859418/164996468-678a67bd-dad6-4a09-a30e-78f075ad1345.jpg">
 
-Conforme a orientação do User Flow na Landing Page e nas demais telas no cabeçalho se encontra o botão de login onde o usuário cadastrado fará seu acesso.
+Conforme a orientação do User Flow na Landing Page e nas demais telas no cabeçalho se encontra o botão de "Logar" onde o usuário cadastrado fará seu acesso.
+
+<img src="https://user-images.githubusercontent.com/86859418/164997451-acf4ce55-c220-4ccd-b5c1-fa9c2c8e2810.jpg">
+
+O Usuário visitante encontra no cabeçalho o botão "Cadastro" ao clicar abrirá a tela para seleciona o tipo de usuário sendo três opções: Dependente Químico, Codependente e Padrinho ou Madrinha.
+
+
