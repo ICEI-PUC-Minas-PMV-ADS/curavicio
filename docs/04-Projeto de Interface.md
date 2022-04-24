@@ -24,5 +24,9 @@ Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Lan
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
 A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição os elementos estruturais: cabeçalho, conteúdo e rodapé, onde o conteúdo é a parte estrutural onde aloca os conteúdos para outras telas.
+
+<img src="https://user-images.githubusercontent.com/86859418/164994954-aab84eb6-dc52-4d92-b04e-f720dd0754af.jpg">
+
+Ao clicar na link Blog Cura Vício no cabeçalho é gerado na "estrutura conteúdo" a tela do Blog. 
  
 
