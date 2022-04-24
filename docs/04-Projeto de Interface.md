@@ -52,4 +52,14 @@ Conforme a orientação do User Flow na Landing Page e nas demais telas no cabe�
 
 O Usuário visitante encontra no cabeçalho o botão "Cadastro" ao clicar abrirá a tela para seleciona o tipo de usuário sendo três opções: Dependente Químico, Codependente e Padrinho ou Madrinha.
 
+Na mesma tela abaixo encontra-se na estrutura de conteúdo artigos do blog relacionados aos tipos de usuários, entre outros artigos relacionados.
+
+<img src="https://user-images.githubusercontent.com/86859418/164997028-03d33a3c-711a-4f20-83a7-558bd22c0cf0.jpg">
+
+O usuário ao selecionar os tipos de usuários: Dependente Químicos ou Codependente, irão realizar o cadastro utilizando a mesma tela pois formulário é comum aos dois tipos de usuários.
+
+<img src="https://user-images.githubusercontent.com/86859418/164997852-fca716ba-fde0-4e3d-828c-489c96d5a531.jpg">
+
+O usuário ao selecionar o tipo de usuário: Padrinho ou madrinha, irão realizar o seu cadastro em sua tela específica em seguida o cadastro do dependente químico que pretende ajudar. 
+
 
