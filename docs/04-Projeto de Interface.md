@@ -40,3 +40,7 @@ Como se sugere ao contexto da última tela seguimos o fluxo de usuários no cabe
 
 Seguindo o fluxo de usuários ainda aos tópicos principais temos o link para a tela de Clínicas de Tratamento e Grupos de Apoio.
 
+<img src="https://user-images.githubusercontent.com/86859418/164996303-33e3429e-f3f8-4439-93c3-cb48b11a2cb4.jpg">
+
+Seguindo o fluxo de usuários temos o até então útlimo tópico com o link para a tela Membros Interdiscplinares.
+
