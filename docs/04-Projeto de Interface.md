@@ -22,6 +22,8 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Landing Page.
 
 <img src="https://user-images.githubusercontent.com/86859418/164992666-8f7ad9b6-ab96-42a2-9acc-195f24e15026.jpg">
+
+A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição por um Cabeçalho, conteúdo e rodapé.
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
