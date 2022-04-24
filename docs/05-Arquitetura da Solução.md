@@ -4,7 +4,7 @@
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164816133-6379b88d-83d4-49e6-b543-0cf10cc32266.png)
+![Diagrama de Componentes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/issues/1#issuecomment-1107903123)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
