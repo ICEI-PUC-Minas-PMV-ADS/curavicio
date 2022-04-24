@@ -19,7 +19,7 @@ Com a orientação da documentação em contexto e o tópico de especificação 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 Conforme a orietação do User Flow a primeira tela a ser prototipada foi a Landing Page.
-
+##
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
 A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição os elementos estruturais: cabeçalho, conteúdo e rodapé, onde o conteúdo é a parte estrutural onde aloca os conteúdos para outras telas.
