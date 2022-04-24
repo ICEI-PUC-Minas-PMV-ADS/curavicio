@@ -19,7 +19,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Landing Page.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/issues/20#issue-1213742128.jpg">
+<img src="https://user-images.githubusercontent.com/86859418/164992666-8f7ad9b6-ab96-42a2-9acc-195f24e15026.jpg">
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
