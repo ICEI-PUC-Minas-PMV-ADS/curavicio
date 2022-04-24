@@ -32,3 +32,7 @@ Ao clicar na link Blog Cura Vício no cabeçalho é gerado na "estrutura conteú
 
 Seguindo o fluxo de usuários no cabeçalho segue o próximo link que gera a tela de Dependências Químicas.
 
+<img src="https://user-images.githubusercontent.com/86859418/164995241-74c59c12-d63b-4d61-b221-eb6406225b19.jpg">
+
+Como se sugere ao contexto da última tela seguimos o fluxo de usuários no cabeçalho com próximo link Artigos Cientifícos.
+
