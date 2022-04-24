@@ -4,7 +4,7 @@
 
 Os componentes que fazem parte da solução são apresentados na Imagem X.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164993163-d7c2c09f-5a73-4554-8fd7-a2cc39b1c841.png)
+![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164993472-c4e61982-53ff-43e0-9417-a3cf07cdef5c.png)
 <center>Imagem X - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
