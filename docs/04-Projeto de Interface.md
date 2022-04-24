@@ -62,4 +62,6 @@ O usuário ao selecionar os tipos de usuários: Dependente Químicos ou Codepend
 
 O usuário ao selecionar o tipo de usuário: Padrinho ou madrinha, irão realizar o seu cadastro em sua tela específica em seguida o cadastro do dependente químico que pretende ajudar. 
 
+<img src="https://user-images.githubusercontent.com/86859418/164998020-10c423f7-868c-4d0b-bc08-b2e8639f84d9.jpg">
 
+Após o cadastrado o usuário é exibida uma tela de perfil.
