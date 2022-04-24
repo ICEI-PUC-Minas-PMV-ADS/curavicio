@@ -23,13 +23,6 @@ Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Lan
 
 <img src="https://user-images.githubusercontent.com/86859418/164992666-8f7ad9b6-ab96-42a2-9acc-195f24e15026.jpg">
 
-A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição por um Cabeçalho, conteúdo e rodapé.
+A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição os elementos estruturais: cabeçalho, conteúdo e rodapé, onde o conteúdo é a parte estrutural onde aloca os conteúdos para outras telas.
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
