@@ -18,7 +18,7 @@ Com a orientação da documentação em contexto e o tópico de especificação 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
-Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Landing Page.
+Conforme a orietação do User Flow a primeira tela a ser prototipada foi a Landing Page.
 
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
@@ -46,4 +46,4 @@ Seguindo o fluxo de usuários temos o até então útlimo tópico com o link par
 
 <img src="https://user-images.githubusercontent.com/86859418/164996468-678a67bd-dad6-4a09-a30e-78f075ad1345.jpg">
 
-Conforme a orietação do User Flow, a primeira tela a Landing Page no cabeçalho se encontra o botão de login onde o usuário cadastro fará seu acesso.
+Conforme a orientação do User Flow na Landing Page e nas demais telas no cabeçalho se encontra o botão de login onde o usuário cadastrado fará seu acesso.
