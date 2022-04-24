@@ -44,3 +44,6 @@ Seguindo o fluxo de usuários ainda aos tópicos principais temos o link para a 
 
 Seguindo o fluxo de usuários temos o até então útlimo tópico com o link para a tela Membros Interdiscplinares.
 
+<img src="https://user-images.githubusercontent.com/86859418/164996468-678a67bd-dad6-4a09-a30e-78f075ad1345.jpg">
+
+Conforme a orietação do User Flow, a primeira tela a Landing Page no cabeçalho se encontra o botão de login onde o usuário cadastro fará seu acesso.
