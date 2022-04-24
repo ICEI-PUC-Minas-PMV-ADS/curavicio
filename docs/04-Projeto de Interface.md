@@ -13,7 +13,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 Com a orientação da documentação em contexto e o tópico de especificação de projeto foi elaborado o User Flow. 
 
-<img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
+<img src="https://user-images.githubusercontent.com/86859418/164817012-1468a075-d570-40e3-8daa-0981fb09b942.jpg">
 
 ## Wireframes
 
@@ -21,7 +21,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 Conforme a orietação do User Flow, a primeira tela a ser prototipada foi a Landing Page.
 
-<img src="https://user-images.githubusercontent.com/86859418/164992666-8f7ad9b6-ab96-42a2-9acc-195f24e15026.jpg">
+<img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
 A Landing Page representa a estrutura padrão para todas as outras telas, onde consiste em sua composição os elementos estruturais: cabeçalho, conteúdo e rodapé, onde o conteúdo é a parte estrutural onde aloca os conteúdos para outras telas.
  
