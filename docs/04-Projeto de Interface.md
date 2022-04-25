@@ -106,6 +106,7 @@ O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção:
 
 ## Perfil de Usuário
 Após o cadastro é exibida a tela com o ***Perfil do Usuário***.
+A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo pelo **Perfil de Usuário**.
 ##
 
 ##
