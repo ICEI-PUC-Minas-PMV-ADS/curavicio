@@ -8,9 +8,9 @@ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Fluxo de usuário ***(User Flow)*** é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
-Com a orientação da documentação em contexto e o tópico de especificação de projeto foi elaborado o User Flow. 
+Com a orientação da documentação em contexto e o tópico de ***Especificação de Projeto*** foi elaborado o **User Flow**. 
 
 <img src="https://user-images.githubusercontent.com/86859418/164999032-df0b94fe-2bcc-41a2-8b4b-20f4655f5dbd.jpg">
 
@@ -25,7 +25,7 @@ Conforme a orietação do User Flow a primeira tela a ser prototipada foi a **La
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
-A estrutura padrão definida para todas as telas se baseiam no **Landing Page** onde em sua composição temos como elementos estruturais: ***cabeçalho, conteúdo e rodapé***, a estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para as outras telas.
+A estrutura padrão definida para todas as telas se baseiam no **Landing Page** onde em sua composição temos como elementos estruturais o: ***cabeçalho, conteúdo e rodapé***, a estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para as outras telas.
 
 ## Blog Cura Vício
 Ao clicar na link **Blog Cura Vício** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela do Blog. 
