@@ -73,7 +73,7 @@ A navegação por essa tela permite acessar uma lista de ***Membros Interdiscipl
 ## Login
 Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Logar"*** onde os usuários cadastrados poderão realizar o seu acesso.
 Ao clicar no botão **Logar** no cabeçalho é gerado na tela um ***modal*** de **Login**.
-A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo pelo perfil.
+A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo da plataforma pelo perfil.
 ##
 
 ##
@@ -106,7 +106,7 @@ O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção:
 
 ## Perfil de Usuário
 Após o cadastro é exibida a tela com o ***Perfil do Usuário***.
-A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo pelo **Perfil de Usuário**.
+A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo da plataforma pelo **Perfil de Usuário**.
 ##
 
 ##
