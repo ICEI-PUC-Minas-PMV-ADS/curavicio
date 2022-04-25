@@ -36,11 +36,11 @@ De modo sugestivo ao contexto da última tela seguimos o fluxo de usuários no c
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164995241-74c59c12-d63b-4d61-b221-eb6406225b19.jpg">
 
-Seguindo o fluxo de usuários no cabeçalho com próximo tópico com link que gera a tela de Clínicas de Tratamento e Grupos de Apoio.
+Seguindo o fluxo de usuários no cabeçalho com próximo tópico com o link que gera a tela de Clínicas de Tratamento e Grupos de Apoio.
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164996139-1e39c526-8033-4012-b40b-d1cbd1aaf9a6.jpg">
 
-Seguindo o fluxo de usuários no cabeçalho com próximo tópico com link para a tela de Membros Interdisciplinares.
+Seguindo o fluxo de usuários no cabeçalho com próximo tópico com o link para a tela de Membros Interdisciplinares.
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164996303-33e3429e-f3f8-4439-93c3-cb48b11a2cb4.jpg">
 
