@@ -25,7 +25,7 @@ Conforme a orietação do User Flow a primeira tela a ser prototipada foi a **La
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
-A estrutura padrão para todas as outras telas se baseia no Landing Page onde em sua composição os elementos estruturais são: ***cabeçalho, conteúdo e rodapé***, a estrutura ***"conteúdo"*** é a parte estrutural onde aloca os conteúdos para outras telas.
+A estrutura padrão definida para todas as telas se baseiam no **Landing Page** onde em sua composição temos como elementos estruturais: ***cabeçalho, conteúdo e rodapé***, a estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para as outras telas.
 
 ## Blog Cura Vício
 Ao clicar na link **Blog Cura Vício** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela do Blog. 
