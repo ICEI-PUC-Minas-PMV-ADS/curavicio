@@ -27,6 +27,7 @@ A estrutura padrão definida para todas as telas se baseiam no **Landing Page** 
 <img src="https://user-images.githubusercontent.com/86859418/164994591-179bfca8-9dbe-431d-a101-3f50eb2b03d2.jpg">
 
 ## Blog Cura Vício
+Seguindo o fluxo de usuários no cabeçalho o primeiro tópico com o link que gera a tela de **Blog Cura Vício**.
 Ao clicar na link **Blog Cura Vício** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela do Blog. 
 ##
 
@@ -35,6 +36,8 @@ Ao clicar na link **Blog Cura Vício** no cabeçalho é gerado na estrutura ***"
 
 ## Dependências Químicas
 Seguindo o fluxo de usuários no cabeçalho segue o próximo tópico com o link que gera a tela de **Dependências Químicas**.
+Ao clicar no link **Dependências Químicas** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela específica.
+A navegação por essa tela permite acessar uma lista de ***Dependências Químicas***, sendo assim o tópico escolhido pelo usuário deve ser exibido na estrutura ***"conteúdo"***.
 ##
 
 ##
@@ -42,6 +45,8 @@ Seguindo o fluxo de usuários no cabeçalho segue o próximo tópico com o link 
 
 ## Artigos Científicos
 De modo sugestivo ao contexto da última tela seguimos o fluxo de usuários no cabeçalho com o próximo tópico com o link que gera a tela de **Artigos Cientifícos**.
+Ao clicar no link **Artigos Científicos** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela específica.
+A navegação por essa tela permite acessar uma lista de ***Artigos Científicos***, sendo assim o tópico escolhido pelo usuário deve ser exibido na estrutura ***"conteúdo"***.
 ##
 
 ##
@@ -49,6 +54,8 @@ De modo sugestivo ao contexto da última tela seguimos o fluxo de usuários no c
 
 ## Clínicas de Tratamento e Grupos de Apoio
 Seguindo o fluxo de usuários no cabeçalho com o próximo tópico com o link que gera a tela de **Clínicas de Tratamento e Grupos de Apoio**.
+Ao clicar no link **Clínicas de Tratamento e Grupos de Apoio** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela específica.
+A navegação por essa tela permite acessar uma lista de ***Clínicas de Tratamento e Grupos de Apoio***, sendo assim o tópico escolhido pelo usuário deve ser exibido na estrutura ***"conteúdo"***.
 ##
 
 ##
@@ -56,27 +63,33 @@ Seguindo o fluxo de usuários no cabeçalho com o próximo tópico com o link qu
 
 ## Membros Interdisciplinares
 Seguindo o fluxo de usuários no cabeçalho com o próximo tópico com o link para a tela de **Membros Interdisciplinares**.
+Ao clicar no link **Membros Interdisciplinares** no cabeçalho é gerado na estrutura ***"conteúdo"*** a tela específica.
+A navegação por essa tela permite acessar uma lista de ***Membros Interdisciplinares***, sendo assim o tópico escolhido pelo usuário deve ser exibido na estrutura ***"conteúdo"***.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164996303-33e3429e-f3f8-4439-93c3-cb48b11a2cb4.jpg">
 
 ## Login
-Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Logar"*** onde os usuários cadastrados farão seu acesso através do ***modal*** de **Login**  .
+Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Logar"*** onde os usuários cadastrados poderão realizar o seu acesso.
+Ao clicar no botão **Logar** no cabeçalho é gerado na tela um ***modal*** de **Login**.
+A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo pelo perfil.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164996468-678a67bd-dad6-4a09-a30e-78f075ad1345.jpg">
 
 ## Tipo de Usuário
-O Usuário visitante navegando pelo ***cabeçalho*** encontra o botão ***"Cadastro"*** ao clicar abrirá a tela **Tipo de Usuário** onde o usuário escolhe entre as opções: ***Dependente Químico, Codependente e Padrinho ou Madrinha***.
-Na mesma tela abaixo encontra-se na estrutura de ***"conteúdo"*** artigos do **blog Cura Vício** como: tipos de usuários, entre outros artigos relacionados.
+Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
+O Usuário visitante navegando pelo ***cabeçalho*** ao clicar no botão ***"Cadastro"*** abrirá a tela **Tipo de Usuário** onde o usuário escolhe entre as opções: ***Dependente Químico, Codependente e Padrinho ou Madrinha***.
+Na navegação específica a esta tela abaixo encontra-se na estrutura de ***"conteúdo"*** artigos do **blog Cura Vício** como: tipos de usuários, entre outros artigos relacionados.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164997451-acf4ce55-c220-4ccd-b5c1-fa9c2c8e2810.jpg">
 
 ## Cadastro de Dependente Químico ou Codependente
+Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
 O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Dependente Químicos***, sendo assim abrirá a tela ***Cadastro de Dependente Químico ou Codependente*** com formulário específico para: ***Dependente Químico e Codependente***.
 ##
 
@@ -84,6 +97,7 @@ O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção:
 <img src="https://user-images.githubusercontent.com/86859418/164997028-03d33a3c-711a-4f20-83a7-558bd22c0cf0.jpg">
 
 ## Cadastro de Padrinho ou Madrinha
+Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
 O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Madrinha***, sendo assim abrirá a tela ***Cadastro de Padrinho ou Madrinha*** com o formulário especifico para ***"Padrinhos ou Madrinhas"*** ao efetivar seu cadastro a próxima etapa é cadastrar o ***"Dependente Químico" ou "Codependente"*** relacionando-o ao cadastro do ***"Padrinhos ou Madrinhas"*** desse modo o sistema obtém as informações necessárias, facilitando a atitude de ajuda do ***usuário apadrinhador***, o possibilitando a usurfruir do conteúdo de forma categórica.
 ##
 
