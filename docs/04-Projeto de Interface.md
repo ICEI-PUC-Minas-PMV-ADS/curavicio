@@ -16,7 +16,7 @@ Com a orientação da documentação em contexto e o tópico de ***Especificaç�
 
 ## Wireframes
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+São protótipos usados em **design de interface** para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um ***wireframe web*** é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 ## Landing Page
 Conforme a orietação do User Flow a primeira tela a ser prototipada foi a **Landing Page**.
@@ -42,21 +42,21 @@ Seguindo o fluxo de usuários no cabeçalho segue o próximo tópico com o link 
 <img src="https://user-images.githubusercontent.com/86859418/164995383-d6a1c37a-029a-4757-bed1-056a7968593e.jpg">
 
 ## Artigos Científicos
-De modo sugestivo ao contexto da última tela seguimos o fluxo de usuários no cabeçalho com próximo tópico com o link que gera a tela de **Artigos Cientifícos**.
+De modo sugestivo ao contexto da última tela seguimos o fluxo de usuários no cabeçalho com o próximo tópico com o link que gera a tela de **Artigos Cientifícos**.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164995241-74c59c12-d63b-4d61-b221-eb6406225b19.jpg">
 
 ## Clínicas de Tratamento e Grupos de Apoio
-Seguindo o fluxo de usuários no cabeçalho com próximo tópico com o link que gera a tela de **Clínicas de Tratamento e Grupos de Apoio**.
+Seguindo o fluxo de usuários no cabeçalho com o próximo tópico com o link que gera a tela de **Clínicas de Tratamento e Grupos de Apoio**.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164996139-1e39c526-8033-4012-b40b-d1cbd1aaf9a6.jpg">
 
 ## Membros Interdisciplinares
-Seguindo o fluxo de usuários no cabeçalho com próximo tópico com o link para a tela de **Membros Interdisciplinares**.
+Seguindo o fluxo de usuários no cabeçalho com o próximo tópico com o link para a tela de **Membros Interdisciplinares**.
 ##
 
 ##
@@ -78,14 +78,14 @@ Na mesma tela abaixo encontra-se na estrutura de ***"conteúdo"*** artigos do **
 <img src="https://user-images.githubusercontent.com/86859418/164997451-acf4ce55-c220-4ccd-b5c1-fa9c2c8e2810.jpg">
 
 ## Cadastro de Dependente Químico ou Codependente
-O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Dependente Químicos***, abrirá a tela ***Cadastro de Dependente Químico ou Codependente*** com formulário que a principio é comum para dois tipos de usuário: ***Dependente Químico e Codependente***.
+O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Dependente Químicos***, sendo assim abrirá a tela ***Cadastro de Dependente Químico ou Codependente*** com formulário específico para: ***Dependente Químico e Codependente***.
 ##
 
 ##
 <img src="https://user-images.githubusercontent.com/86859418/164997028-03d33a3c-711a-4f20-83a7-558bd22c0cf0.jpg">
 
 ## Cadastro de Padrinho ou Madrinha
-O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Madrinha***, abrirá a tela ***Cadastro de Padrinho ou Madrinha*** com o formulário especifico para ***"Padrinhos ou Madrinhas"*** ao efetivar seu cadastro a próxima etapa é cadastrar o ***"Dependente Químico" ou "Codependente"*** relacionando-o ao cadastro do ***"Padrinhos ou Madrinhas"*** desse modo o sistema obtém as informações necessárias, facilitando a atitude de ajuda do ***usuário apadrinhador***, o possibilitando a usurfruir do conteúdo de forma categórica.
+O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Madrinha***, sendo assim abrirá a tela ***Cadastro de Padrinho ou Madrinha*** com o formulário especifico para ***"Padrinhos ou Madrinhas"*** ao efetivar seu cadastro a próxima etapa é cadastrar o ***"Dependente Químico" ou "Codependente"*** relacionando-o ao cadastro do ***"Padrinhos ou Madrinhas"*** desse modo o sistema obtém as informações necessárias, facilitando a atitude de ajuda do ***usuário apadrinhador***, o possibilitando a usurfruir do conteúdo de forma categórica.
 ##
 
 ##
