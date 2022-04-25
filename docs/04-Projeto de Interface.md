@@ -58,11 +58,11 @@ O usuário ao selecionar o tipo de usuário a cadastrar escolhe a opção: Depen
 <img src="https://user-images.githubusercontent.com/86859418/164997028-03d33a3c-711a-4f20-83a7-558bd22c0cf0.jpg">
 
 O usuário ao selecionar o tipo de usuário a cadastrar escolhe a opção: Madrinha, abrirá a tela do formulário especifica para "Padrinhos e Madrinhas" onde poderá efetivar seu cadastro, e seguindo o fluxo esta "Madrinha" deve cadastrar o "Dependente Químico" ou "Codependente" que ela deseja interceder, obtendo as informações necessárias consequentemente facilitando a sua atitude de ajuda.
-##
+###
 <img src="https://user-images.githubusercontent.com/86859418/164997852-fca716ba-fde0-4e3d-828c-489c96d5a531.jpg">
-
-Após o cadastrado é exibida uma tela com o perfil do usuário.
-##
+#### Perfil de Usuário
+Após o cadastro é exibida uma tela com o perfil do usuário.
+###
 <img src="https://user-images.githubusercontent.com/86859418/164998020-10c423f7-868c-4d0b-bc08-b2e8639f84d9.jpg">
 
 
