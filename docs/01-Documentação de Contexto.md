@@ -14,7 +14,7 @@ Dependentes químicos e codependentes sofrem com a carência de informações re
 
 ## Objetivos
 
-O objetivo geral é a criação de uma plataforma web gratuita capaz auxiliar os usuários: ***dependentes químicos, codependentes e padrinhos e madrinhas***, de forma educativa facilitando o acesso a informações referentes aos vícios e otimizando a organização de grupos de apoio possibilitando a indicação de membros interdisplinares para um tipo de ajuda específica inclusive a indicação de profissionais de saúde e clínicas mais próximas. 
+O objetivo geral é a criação de uma plataforma web gratuita capaz auxiliar os usuários: ***dependentes químicos, codependentes, padrinhos e madrinhas***, de forma educativa facilitando o acesso a informações referentes aos vícios e otimizando a organização de grupos de apoio possibilitando a indicação de membros interdisplinares para um tipo de ajuda específica inclusive a indicação de profissionais de saúde e clínicas mais próximas. 
 
 Como objetivos específicos, podemos elencar: 
 
