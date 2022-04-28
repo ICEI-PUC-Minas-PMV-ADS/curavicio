@@ -2,7 +2,7 @@
 
 ## `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-### `Projeto: Desenvolvimento de Aplicação Web Front-End`
+## `Projeto: Desenvolvimento de Aplicação Web Front-End`
 
 #### `EIXO 1`
 
