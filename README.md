@@ -1,12 +1,12 @@
 # CURA VÍCIO
 
-`Análise e Desenvolvimento de Sistemas - PUC Minas`
+##`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`Projeto: Desenvolvimento de Aplicação Web Front-End`
+###`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`EIXO 1`
+####`EIXO 1`
 
-Este projeto pretende contribuir com a redução do número de dependentes químicos, desse modo o objetivo central é o desenvolvimento de uma plataforma web capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de dependências química de forma gratuita.
+Este projeto pretende contribuir com a redução do número de **dependentes químicos**, desse modo o objetivo central é o desenvolvimento de uma ***plataforma web*** capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de **dependências químicas** de forma gratuita.
 
 ## Integrantes
 
