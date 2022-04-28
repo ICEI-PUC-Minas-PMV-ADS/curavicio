@@ -26,12 +26,12 @@ Permitir aos usuários terem acesso a contatos de profissionais de saúde locais
 
 ## Justificativa
 
-De acordo com os dados da pesquisa da OMS do censo de 2021, cerca de 6% da
-população brasileira atual tem alguma dependência química. Isso totaliza um
-contingente de 12,4 milhões de pessoas. O Relatório Mundial sobre Drogas de 2021
+De acordo com os dados da pesquisa da **OMS** do censo de 2021, cerca de **6%** da
+população brasileira atual tem alguma **dependência química**. Isso totaliza um
+contingente de ***12,4 milhões*** de pessoas. O Relatório Mundial sobre Drogas de 2021
 avalia que a pandemia potencializou os riscos à dependência. De acordo com os
 estudos organizados pela Lenad Família, a instituição que faz levantamentos a
-respeito do uso de drogas no Brasil, revela que quase 30 milhões de cidadãos
+respeito do uso de drogas no Brasil, revela que quase ***30 milhões*** de cidadãos
 brasileiros conhecem um familiar que possui uma dependência química. **(TERRA BR,
 2021)**
 
