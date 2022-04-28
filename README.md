@@ -6,7 +6,7 @@
 
 ## `EIXO 1`
 
-Este projeto pretende contribuir com a redução do número de **dependentes químicos**, desse modo o objetivo central é o desenvolvimento de uma ***plataforma web*** capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de **dependências químicas** de forma gratuita.
+Este projeto pretende contribuir com a redução do número de **dependentes químicos** no Brasil, desse modo o objetivo central é o desenvolvimento de uma ***plataforma web*** capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de **dependências químicas** de forma gratuita.
 
 ## Integrantes
 
