@@ -1,11 +1,11 @@
 
 # Metodologia
 
-A  metodologia  contempla  as  definições  de  ferramental  utilizado  pela  equipe,  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
+A  **metodologia**  contempla  as  definições  de  ferramental  utilizado  pela  **equipe**,  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
+A **ferramenta de controle** de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
@@ -23,7 +23,7 @@ As ramificações podem ser descritas como:
 
 ## Gerenciamento de Projeto
 
-A equipe escolheu o Scrum, uma metodologia ágil, como base para o planehamento e gereciamento do projeto. Esta é uma metodologia efetiva, simples e flexível para pequenas equipes, deixando o projeto passível de sofrer incrementos a cada nova Sprint.
+A equipe escolheu o ***SCRUM***, uma metodologia ágil, como base para o ***planejamento e gereciamento do projeto***. Esta é uma metodologia efetiva, simples e flexível para pequenas equipes, deixando o projeto passível de sofrer incrementos a cada nova ***Sprint***.
 
 ### Divisão de Papéis
 
@@ -32,7 +32,7 @@ A equipe foi organizada da seguinte maneira:
 - Product Owner: Profª. Joyce Christina de Paiva Carvalho 
 - Scrum Master: Tiago Del Puppo Favilla Lobo
  
-Equipe de Desenvolvimento e Design:
+**Equipe de Desenvolvimento e Design**:
  
 - Gabriel Nakhata Lopes Ruas Nhimi
 - Paulo Hyure Eufrasio Pereira
@@ -42,17 +42,17 @@ Equipe de Desenvolvimento e Design:
 
 ### Processo
 
-Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  Trello estruturado com as seguintes listas:
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  ***Trello*** estruturado com as seguintes listas:
 
-● Product Backlog:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um 'milestone', que pressupõe uma entrega final.
+● **Product Backlog**:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um ***'milestone'***, que pressupõe uma entrega final.
 
-● Sprint Backlog:  tarefas listadas no Product Backlog são detalhadas e divididas em sprints;
+● **Sprint Backlog**:  tarefas listadas no ***Product Backlog*** são detalhadas e divididas em ***"Sprints"***;
 
-● In Progress: quando uma tarefa do Sprint Backlog tiver sido iniciada, ela é movida para cá;
+● **In Progress**: quando uma tarefa do **Sprint Backlog** tiver sido iniciada, ela é movida para cá;
 
-● Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou revisões necessárias.
+● **Done**: nesta lista são colocadas as tarefas que passaram pelos ***testes e controle de qualidade***  e  estão  prontos  para  ser  ***entregues  ao  usuário***.  Não  há  mais  edições  ou revisões necessárias.
 
-O quadro kanban do grupo no GitHub está disponível através da URL 
+O quadro **KANBAN** do grupo no **GitHub** está disponível através da URL 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/projects/1 e é apresentado, no estado atual, na Figura abaixo.
 
 <Img src="https://user-images.githubusercontent.com/59934631/164791742-d41a6102-a59c-4698-af45-c5f41016ff15.PNG">
@@ -61,7 +61,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vic
 
 As ferramentas empregadas no projeto estão descritas na tabela abaixo:
 
-|FUNÇÃO| PLATAFORMA |LINK DE ACESSO|
+|**FUNÇÃO**| **PLATAFORMA** |**LINK DE ACESSO**|
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório de Código Fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
 |User Flow|LucidChart|https://www.lucidchart.com/|
