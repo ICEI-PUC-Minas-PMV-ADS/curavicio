@@ -1,7 +1,7 @@
 
 # Metodologia
 
-A  **metodologia**  contempla  as  definições  de  ferramental  utilizado  pela  **equipe**,  tanto  para  a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
+A  **metodologia**  contempla  as  definições  de  ferramental  utilizado  pela  **equipe**,  tanto  para  a manutenção dos códigos e demais ***artefatos***, quanto para a **organização do time na execução** das ***tarefas do projeto***.
 
 ## Controle de Versão
 
@@ -9,30 +9,30 @@ A **ferramenta de controle** de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-O projeto segue o seguinte fluxo de trabalho:
+**O projeto segue o seguinte fluxo de trabalho:**
 
 <Img src="https://user-images.githubusercontent.com/59934631/164794368-739291c2-9ffa-4d38-ae37-640a3dc633b8.png">
 
-As ramificações podem ser descritas como:
+**As ramificações podem ser descritas como:**
 
-- `Master`: versão original ou espelho da versão atual da aplicação;
-- `Develop`: cópia da ramificação 'Master" com funcionalidades ainda não publicadass (base para 'Feature');
-- `Feature`: ramificação temporária e auxiliar, contendo uma nova funcionalidade específica;
-- `Hotfix`: ramificação temporária e auxiliar, que contém correções rápidas a serem incluídas direto nas  ramificações 'Main' e 'Develop';
-- `Release`: ramificação que une os que está pronto em 'Develop' e inclui na 'Main' e a partir daí é criada uma nova versão da aplicação.
+- **`Master`**: versão original ou espelho da ***versão atual da aplicação***;
+- **`Develop`**: cópia da ramificação 'Master" com funcionalidades ainda não publicadass ***(base para 'Feature')***;
+- **`Feature`**: ramificação temporária e auxiliar, contendo uma nova ***funcionalidade específica***;
+- **`Hotfix`**: ramificação temporária e auxiliar, que contém correções rápidas a serem incluídas direto nas  ramificações **'Main'** e **'Develop'**;
+- **`Release`**: ramificação que une os que está pronto em **'Develop'** e inclui na **'Main'** e a partir daí é criada uma nova versão da aplicação.
 
 ## Gerenciamento de Projeto
 
-A equipe escolheu o ***SCRUM***, uma metodologia ágil, como base para o ***planejamento e gereciamento do projeto***. Esta é uma metodologia efetiva, simples e flexível para pequenas equipes, deixando o projeto passível de sofrer incrementos a cada nova ***Sprint***.
+A equipe escolheu o ***SCRUM***, uma ***metodologia ágil***, como base para o ***planejamento e gereciamento do projeto***. Esta é uma metodologia efetiva, simples e flexível para **pequenas equipes**, deixando o projeto passível de sofrer ***incrementos*** a cada nova ***Sprint***.
 
 ### Divisão de Papéis
 
-A equipe foi organizada da seguinte maneira:
+**A equipe foi organizada da seguinte maneira:**
 
-- Product Owner: Profª. Joyce Christina de Paiva Carvalho 
-- Scrum Master: Tiago Del Puppo Favilla Lobo
+- **Product Owner:** Profª. Joyce Christina de Paiva Carvalho 
+- **Scrum Master:** Tiago Del Puppo Favilla Lobo
  
-**Equipe de Desenvolvimento e Design**:
+**Equipe de Desenvolvimento e Design:**
  
 - Gabriel Nakhata Lopes Ruas Nhimi
 - Paulo Hyure Eufrasio Pereira
@@ -42,7 +42,7 @@ A equipe foi organizada da seguinte maneira:
 
 ### Processo
 
-Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  ***Trello*** estruturado com as seguintes listas:
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  ***TRELLO*** estruturado com as seguintes listas:
 
 ● **Product Backlog**:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um ***'milestone'***, que pressupõe uma entrega final.
 
