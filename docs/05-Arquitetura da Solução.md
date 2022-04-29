@@ -29,4 +29,4 @@ A Hospedagem será feita por meio do ***GitHub Pages***, que é um serviço de
 hospedagem de site estático, ou seja, um projeto que utiliza arquivos
 ***HTML, CSS e JavaScript*** diretamente de um repositório no **GitHub**. Essa 
 hospedagem ocorre pela execução dos arquivos procedida pela publicação 
-em um site, esta ferramenta permite hospedar o seu site no domínio github.io.
+em um site, esta ferramenta permite hospedar o seu site no domínio ***github.io***.
