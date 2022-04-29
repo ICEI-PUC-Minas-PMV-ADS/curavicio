@@ -5,7 +5,7 @@
 Os componentes que fazem parte da solução são apresentados na **Imagem X**.
 
 ![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164993472-c4e61982-53ff-43e0-9417-a3cf07cdef5c.png)
-<center>**Imagem X - Arquitetura da Solução**</center>
+<center>Imagem X - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** 
