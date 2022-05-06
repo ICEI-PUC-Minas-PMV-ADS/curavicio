@@ -41,7 +41,7 @@ As tabelas que se seguem apresentam os ***requisitos funcionais*** e ***não fun
 |**RF-03**|O site deve permitir ao **usuário**, ***visualizar notícias e informações sobre tratamento de dependências químicas***. |**MÉDIA**| 
 |**RF-04**|O site deve permitir ao **usuário**, ***entrar em contato com membros interdisciplinares***.|**MÉDIA**| 
 |**RF-05**|O site deve apresentar, uma ***lista de clínicas especializadas e grupos de apoio***.|**ALTA**|
-|**RF-06**|O site deve apresentar, opção de busca de conteúdo***de acordo com o vício***.|**ALTA**|
+|**RF-06**|O site deve apresentar, ***opção de busca de conteúdo de acordo com o vício***.|**ALTA**|
 
 ### Requisitos não Funcionais
 
