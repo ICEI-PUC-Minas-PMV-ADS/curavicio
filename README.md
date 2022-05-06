@@ -11,11 +11,11 @@ Este projeto pretende contribuir com a redução do número de **dependentes qu�
 ## Integrantes
 
 * Gabriel Nakhata Lopes Ruas Nhimi
-* Tiago Del Puppo Favilla Lobo
-* Paulo Hyure Eufrasio Pereira
 * Gervasio Felipe Ferreira Duarte
-* Vinicius Luiz Alves De Oliveira
+* Paulo Hyure Eufrasio Pereira
+* Tiago Del Puppo Favilla Lobo
 * Pedro Henrique De Assis Freitas
+* Vinicius Luiz Alves De Oliveira
 
 ## Orientador
 
