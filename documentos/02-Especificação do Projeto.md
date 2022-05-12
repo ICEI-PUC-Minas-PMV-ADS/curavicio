@@ -50,8 +50,11 @@ As tabelas que se seguem apresentam os ***requisitos funcionais*** e ***não fun
 |**RNF-01**|O site deve ser publicado em um ambiente acessível **publicamente na Internet** ***(GitHub Pages)***.|**ALTA**| 
 |**RNF-02**|O site deverá ser responsivo permitindo a ***visualização em um celular de forma adequada***.|**ALTA**| 
 |**RNF-03**|O site deve ter bom nível de contraste entre os ***elementos da tela em conformidade***.|**MÉDIA**| 
-|**RNF-04**|O site deve ser compatível com os principais **navegadores do mercado** ***(Google Chrome, Firefox, Microsoft Edge)***.|**ALTA**| 
+|**RNF-04**|O site deve ser compatível com os principais **navegadores do mercado** ***(Google Chrome, Firefox, Microsoft Edge)***.|**ALTA**|
+|**RNF-04**|O site deve disponibilizar ao usuário, páginas informativas e  de noticias . |**MEDIA**| 
+|**RNF-6**|O site deve link de clinicas próximas de sua localidade.
 
+ 
 
 ## Restrições
 
