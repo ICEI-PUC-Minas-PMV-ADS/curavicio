@@ -51,8 +51,8 @@ As tabelas que se seguem apresentam os ***requisitos funcionais*** e ***não fun
 |**RNF-02**|O site deverá ser responsivo permitindo a ***visualização em um celular de forma adequada***.|**ALTA**| 
 |**RNF-03**|O site deve ter bom nível de contraste entre os ***elementos da tela em conformidade***.|**MÉDIA**| 
 |**RNF-04**|O site deve ser compatível com os principais **navegadores do mercado** ***(Google Chrome, Firefox, Microsoft Edge)***.|**ALTA**
-|**RNF-05**|O site deve disponibilizar ao usuário, páginas informativas e de notícias. |**MÉDI **|
-|**RNF-05**|O site deve ter links de clínicas de tratamento próximo de sua localização. |**MÉdiaa**|
+|**RNF-05**| AAAA |**MÉDIA**|
+|**RNF-05**| AAAA |**MÉDIA**|
  
 
 ## Restrições
