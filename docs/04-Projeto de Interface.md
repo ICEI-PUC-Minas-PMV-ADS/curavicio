@@ -12,7 +12,7 @@ Fluxo de usuário ***(User Flow)*** é uma técnica que permite ao desenvolvedor
 
 Com a orientação da documentação em contexto e o tópico de ***Especificação de Projeto*** foi elaborado o **User Flow**. 
 
-<img src="https://user-images.githubusercontent.com/86859418/164999032-df0b94fe-2bcc-41a2-8b4b-20f4655f5dbd.jpg">
+<img src="https://user-images.githubusercontent.com/59934631/168191599-9f3da752-d44f-41ad-b7bd-e9fab9c91926.png">
 
 ## Wireframes
 
