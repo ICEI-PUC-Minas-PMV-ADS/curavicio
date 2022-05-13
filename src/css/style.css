@@ -1,0 +1,8 @@
+body {
+    background-color: blank;
+}
+
+#divider {
+    background-image: linear-gradient(to right, rgb(245, 248, 247) , rgb(90, 163, 224));
+    height: 60px;
+}
