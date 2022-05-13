@@ -22,10 +22,10 @@ A partir da compreensão do dia a dia das **personas** identificadas para o proj
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |**Eliana Sanches** ***(Madrinha ou voluntária)***|Apresentar ao **dependente químico** ***o site para adquirir informações***|Para aconselha-lo de que é possível se livrar da **dependência química**, através de ***dicas encontradas***|
-|**João da Silva** ***(Padrinho ou voluntário)***|Conseguir encontrar um **contato de um profissional de saúde** para ajudar para um amigo/conhecido dependente químico|Para tornar mais fácil a ***tomada de decisão do dependente químico*** ao seu tratamento|
+|**João da Silva** ***(Padrinho ou voluntário)***|Conseguir encontrar um **contato de um profissional de saúde** para ajudar um amigo/conhecido dependente químico|Para tornar mais fácil a ***tomada de decisão do dependente químico*** ao seu tratamento|
 |**Carlos Gomes** ***(Dependente químico)***|Ele deseja encontrar **dicas** de como se ver livre do uso de entorpecentes|Para conseguir se **autogerenciar** e seguir com ***seu tratamento***|
 |**Melina Dias** ***(Dependente química)***|Visualizar informações especificas sobre **tipos de vícios**|Encontrar informações relevantes ao ***seu perfil*** como uma pessoa dependente química|
- |**Marilia Mendes** ***(Voluntária ou Madrinha)***|Ajudar pessoas no processo de reabilitação de **dependências químicas**, cadastrando seus contatos|Para poder oferecer ***ajuda especializada gratuita*** |
+ |**Marilia Mendes** ***(Voluntária ou Madrinha)***|Ajudar pessoas no processo de reabilitação de **dependências químicas**, através de informações disponibilizadas na página.*** |
  |**Isak Menezes** ***(Codependente)***|Visualizar informações relevantes sobre **dependências químicas específicas** |Encontrar ***informações relevantes*** e soluções gratuitas|
 
 ## Requisitos
