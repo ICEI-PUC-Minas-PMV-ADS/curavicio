@@ -1,8 +1,300 @@
-body {
-    background-color: blank;
+* {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#divider {
-    background-image: linear-gradient(to right, rgb(245, 248, 247) , rgb(90, 163, 224));
-    height: 60px;
+header {
+    width: 100%;
+    padding: 54px;
+    background: linear-gradient(300.71deg, rgba(0, 166, 255, 0.5) 15.19%, rgba(2, 255, 200, 0.5) 70.83%);
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body {
+    width: 100%;
+    /*height: 100vh;*/
+    justify-content: center;
+    background: linear-gradient(228.71deg, rgba(121, 176, 206, 0.5) 15.19%, rgba(240, 249, 255, 0) 70.83%);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    justify-content: center;
+    max-width: 150px;
+    margin: auto;
+    display: block;
+    /*padding-right: 35px;*/
+}
+
+li {
+    list-style-type: none;
+    padding-left: left;
+}
+
+.menu {
+    /* padding-left: 20px;
+    padding-right: 20px;
+    min-height: 360px;*/
+    align-items: center;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.buttonCadastro {
+    box-shadow: inset 0px -3px 7px 0px #29bbff;
+    background: linear-gradient(to bottom, #00ccff 5%, #20b2f1 100%);
+    background-color: #84c5eb;
+    border-radius: 3px;
+    border: 1px solid #0ae5f5;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: x-small;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+.buttonCadastro:hover {
+    background: linear-gradient(to bottom, #29ebeb 5%, #84c5eb 100%);
+    background-color: #7dd5f6;
+}
+
+.buttonCadastro:active {
+    position: relative;
+    top: 1px;
+}
+
+.buttonLogar {
+    box-shadow: inset 0px -3px 7px 0px #67ddf7;
+    background: linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+    background-color: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #00ccff;
+    display: inline-block;
+    cursor: pointer;
+    color: #00aeff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: x-small;
+    padding: 6px 25px;
+    text-decoration: none;
+}
+
+.buttonLogar:hover {
+    background: linear-gradient(to bottom, #eefcff 5%, #def8ff 100%);
+    background-color: #ffffff;
+}
+
+.buttonLogar:active {
+    position: relative;
+    top: 1px;
+}
+
+/*Container responsivo para iframe do youtube e afins */
+.embed-container {
+
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 480px;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: none;
+    display: flex;
+
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+/* LINKS */
+.menu li a {
+
+
+    font-size: x-small;
+    font-weight: bold;
+    color: rgb(17, 89, 82);
+    display: block;
+    text-decoration: none;
+    padding: 1px 15px 5px 0px;
+    margin-left: 4px;
+    border-radius: 10px;
+    border-start-start-radius: 35px;
+    border-end-end-radius: 100px;
+
+}
+
+/* LINKS efeito */
+.menu li a:hover {
+
+    font-size: x-small;
+    font-weight: bold;
+    color: rgb(17, 89, 82);
+    display: block;
+    text-decoration: none;
+    background-color: rgb(186, 252, 250);
+    margin-left: 8px;
+}
+
+/* títulos, Home, Menu, e Sobre Nós */
+.menu li ul {
+
+    font-size: small;
+    color: rgb(40, 67, 64);
+    font-weight: bold;
+    margin-left: 1px;
+
+}
+
+.separador {
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 35px;
+}
+
+.flexmenu {
+    gap: 25px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    /* max-height: 720px; */
+    justify-content:left;
+    margin: 0 auto;
+    color: rgb(40, 67, 64);
+    align-items: top;
+
+}
+
+.flexmenu > div {
+    flex: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexBannerMkt {
+    gap: 15px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 720px;
+    margin: 0 auto;
+    justify-content: center;
+
+    color: rgb(40, 67, 64);
+}
+
+.flexBannerMkt > div {
+    padding: 0px;
+    height: 200px;
+    display: flex;
+    flex: 1 1 300px;
+    flex-wrap: wrap;
+}
+
+.txtMain {
+    align-items: center;
+    font-size: larger;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+/*A Flextxt corresponde a estrutura responsiva para o conteúdo de textos */
+
+.flextxt {
+    
+    padding: 35px ;
+    gap: 20px;
+    justify-content: justify;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin: 0 auto;
+    color: rgb(40, 67, 64);
+}
+
+.flextxt > div {
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 1 300px;
+   
+}
+
+
+
+.txt1 {
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.txt2 {
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.footerFlex {
+    gap: 25px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    /* max-height: 720px; */
+    justify-content: center;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.footerFlex > div {
+    flex: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footerTxt {
+    font-size:larger;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer {
+
+    width: 100%;
+    background: linear-gradient(300.71deg, rgba(2, 255, 200, 0.5) 15.19%, rgba(0, 166, 255, 0.5) 70.83%);
+    padding: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+
 }
