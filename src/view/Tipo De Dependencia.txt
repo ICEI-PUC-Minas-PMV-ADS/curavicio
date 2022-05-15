@@ -273,6 +273,7 @@ div {
                  drogas. Principalmente durante a quarentena, a internação pode ser a solução mais<br>  
                 viável para ajudar a quem precisa se livrar das drogas.<br> 
                 </div>
+                
        <h1>Bebidas Alcoólicas</h1>
         <div class="txt5"> 
                     
