@@ -21,7 +21,7 @@ body {
     justify-content: center;
     background: linear-gradient(228.71deg, rgba(121, 176, 206, 0.5) 15.19%, rgba(240, 249, 255, 0) 70.83%);
     background-repeat: no-repeat;
-    display: flex;
+    display: block;
     flex-wrap: wrap;
 }
 
@@ -106,9 +106,7 @@ li {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
-    overflow: hidden;
     max-width: 480px;
-    height: auto;
     margin-top: 0px;
     margin-bottom: none;
     display: flex;
@@ -123,20 +121,19 @@ li {
     left: 0;
     width: 100%;
     height: 100%;
-    display: flex;
 }
 
 /* LINKS */
 .menu li a {
 
 
-    font-size: x-small;
+    font-size: 11px;
     font-weight: bold;
     color: rgb(17, 89, 82);
     display: block;
     text-decoration: none;
     padding: 1px 15px 5px 0px;
-    margin-left: 4px;
+    margin-left: 0px;
     border-radius: 10px;
     border-start-start-radius: 35px;
     border-end-end-radius: 100px;
@@ -146,19 +143,20 @@ li {
 /* LINKS efeito */
 .menu li a:hover {
 
-    font-size: x-small;
+    font-size: 11px;
     font-weight: bold;
+    padding: 1px 15px 5px 0px;
     color: rgb(17, 89, 82);
     display: block;
     text-decoration: none;
     background-color: rgb(186, 252, 250);
-    margin-left: 8px;
+
 }
 
 /* títulos, Home, Menu, e Sobre Nós */
 .menu li ul {
 
-    font-size: small;
+    font-size: 14px;
     color: rgb(40, 67, 64);
     font-weight: bold;
     margin-left: 1px;
@@ -168,7 +166,7 @@ li {
 .separador {
     width: 100%;
     background: rgb(255, 255, 255);
-    padding: 8px;
+    padding: 6px;
     border-radius: 35px;
 }
 
@@ -179,14 +177,14 @@ li {
     flex-wrap: wrap;
     max-width: 100%;
     /* max-height: 720px; */
-    justify-content:left;
+    justify-content: left;
     margin: 0 auto;
     color: rgb(40, 67, 64);
     align-items: top;
 
 }
 
-.flexmenu > div {
+.flexmenu>div {
     flex: 100%;
     flex-wrap: wrap;
     justify-content: center;
@@ -199,17 +197,19 @@ li {
     flex-wrap: wrap;
     max-height: 720px;
     margin: 0 auto;
+    align-items: center;
     justify-content: center;
-
+    background: linear-gradient(300.71deg, rgba(127, 255, 0) 15.19%, rgb(227, 245, 255) 70.83%);
     color: rgb(40, 67, 64);
 }
 
-.flexBannerMkt > div {
+.flexBannerMkt>div {
     padding: 0px;
-    height: 200px;
+    height: 250px;
     display: flex;
     flex: 1 1 300px;
     flex-wrap: wrap;
+
 }
 
 .txtMain {
@@ -224,26 +224,25 @@ li {
 /*A Flextxt corresponde a estrutura responsiva para o conteúdo de textos */
 
 .flextxt {
-    
-    padding: 35px ;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
     gap: 20px;
     justify-content: justify;
     display: flex;
     flex-wrap: wrap;
-    max-width: 100%;
+    max-width: 50%;
     margin: 0 auto;
     color: rgb(40, 67, 64);
 }
 
-.flextxt > div {
+.flextxt>div {
     padding: 5px;
     display: flex;
     flex-wrap: wrap;
     flex: 1 1 1 300px;
-   
+
 }
-
-
 
 .txt1 {
     font-weight: bolder;
@@ -270,31 +269,43 @@ li {
     /* max-height: 720px; */
     justify-content: center;
     margin: 0 auto;
-    color: rgb(255, 255, 255);
     align-items: center;
 }
 
-.footerFlex > div {
+.footerFlex>div {
     flex: 100%;
     flex-wrap: wrap;
     justify-content: center;
 }
 
 .footerTxt {
-    font-size:larger;
+    font-size: larger;
     font-weight: lighter;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
 }
 
-footer {
-
-    width: 100%;
-    background: linear-gradient(300.71deg, rgba(2, 255, 200, 0.5) 15.19%, rgba(0, 166, 255, 0.5) 70.83%);
-    padding: 44px;
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
+.footerTxt>a {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
     justify-content: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 14px;
+}
 
+.footer {
+    padding: 2.5rem 0;
+    text-align: center;
+    background: linear-gradient(300.71deg, rgba(2, 255, 200) 15.19%, rgba(0, 166, 255) 70.83%);
+    padding: 44px;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.footer p:last-child {
+    margin-bottom: 0;
 }
