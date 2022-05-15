@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title>Cura Vício</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen">
+</head>
+
+<body>
+    <header>
+
+        <ul class="menu">
+            <div class="flexmenu">
+                <p>
+                    <img src="/img/logo-cura-vicio.png">
+                </p>
+                <ul>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+                </ul>
+                <ul>
+                    <li>
+                        <ul>Home</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Blog Cura Vício</a></li>
+                    <li><a href="#">Dependências Químicas</a></li>
+                    <li><a href="#">Artigos Científicos</a></li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <ul>Menu</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Clínicas de Tratamento</a></li>
+                    <li><a href="#">Grupos de Apoio</a></li>
+                    <li><a href="#">Membros Interdisciplinares</a></li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <ul>Sobre Nós</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Contate a gente</a></li>
+                    <li><a href="#">História</a></li>
+                </ul>
+                <ul>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+                </ul>
+                <li>
+                    <p>
+                    <ul>
+                        <li><button class="buttonCadastro" onclick="getData()">Cadastro</button></li><br>
+                        <li><button class="buttonLogar" onclick="getData()">Logar</button></li>
+                    </ul>
+                    </p>
+                </li>
+            </div>
+        </ul>
+
+    </header>
+    <main>
+        <div class="separador"></div>
+        <article class="flexBannerMkt">
+            <p>
+            <p class="txtMain">
+                O <strong>Cura Vício</strong> é gratuito<br>
+                e foi feito para te ajudar,<br>
+                fique a vontade<br>
+                para ir e vir!
+            </p>
+            </p>
+            <br>
+            <p>
+            <div class="embed-container">
+                <iframe src="https://www.youtube.com/embed/rYAEe3On-7E" title="YouTube video player" frameborder="0"
+                    allowfullscreen></iframe>
+            </div>
+            </p>
+        </article>
+        <div class="separador"></div>
+        <article class="flextxt">
+           
+            
+
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title>Cura Vício</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen">
+</head>
+
+<body>
+    <header>
+
+        <ul class="menu">
+            <div class="flexmenu">
+                <p>
+                    <img src="/img/logo-cura-vicio.png">
+                </p>
+                <ul>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+                </ul>
+                <ul>
+                    <li>
+                        <ul>Home</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Blog Cura Vício</a></li>
+                    <li><a href="#">Dependências Químicas</a></li>
+                    <li><a href="#">Artigos Científicos</a></li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <ul>Menu</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Clínicas de Tratamento</a></li>
+                    <li><a href="#">Grupos de Apoio</a></li>
+                    <li><a href="#">Membros Interdisciplinares</a></li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <ul>Sobre Nós</ul>
+                    </li>
+                    <br>
+                    <li><a href="#">Contate a gente</a></li>
+                    <li><a href="#">História</a></li>
+                </ul>
+                <ul>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+                </ul>
+                <li>
+                    <p>
+                    <ul>
+                        <li><button class="buttonCadastro" onclick="getData()">Cadastro</button></li><br>
+                        <li><button class="buttonLogar" onclick="getData()">Logar</button></li>
+                    </ul>
+                    </p>
+                </li>
+            </div>
+        </ul>
+
+    </header>
+    <main>
+        <div class="separador"></div>
+        <article class="flexBannerMkt">
+            <p>
+            <p class="txtMain">
+                O <strong>Cura Vício</strong> é gratuito<br>
+                e foi feito para te ajudar,<br>
+                fique a vontade<br>
+                para ir e vir!
+            </p>
+            </p>
+            <br>
+            <p>
+            <div class="embed-container">
+                <iframe src="https://www.youtube.com/embed/rYAEe3On-7E" title="YouTube video player" frameborder="0"
+                    allowfullscreen></iframe>
+            </div>
+            </p>
+        </article>
+        <div class="separador"></div>
+        <article class="flextxt">
+
+            
+div {
+    width:100px
+     height:100px
+      display: incline-txt1 incline-txt2
+    }
+#container-a {
+    txt1
+}
+#container-b {
+    txt2
+}
+            <div class="txt1"> 
+                <h1>Desintoxicação</h1>
+                
+                A desintoxicação é um passo importante para a completa reestruturação<br> 
+                das funções metabólicas afetadas pela toxicidade. Esse processo também<br>  
+                influencia a estabilidade emocional do dependente químico, já que a<br> 
+                recuperação só é eficaz quando novas posturas e comportamentos saudáveis<br>  
+                são estabelecidos.
+                 A desintoxicação é a fase inicial de todos os tipos de tratamento para<br> 
+                dependentes químicos. Considerando a relação entre depressão e uso de<br>  
+                drogas, as terapias combinadas são focadas na reversão dos prejuízos<br>  
+                fisiológicos e na redução dos sintomas da abstinência que podem gerar<br>  
+                tais complicações.<br> 
+                
+                A desintoxicação aguda pode durar entre 20 a 45 dias e é uma das etapas<br> 
+                 mais importantes do tratamento. Segundo Antonio Chaves Filho, psicólogo<br> 
+                 do Hospital Santa Mônica, “após esse período, o tratamento é focado nas <br> 
+                questões mais emocionais. O objetivo é tratar com mais efetividade o que<br> 
+                 mantém o paciente usando essas substâncias, apesar de ter consciência das<br>  
+                consequências negativas do seu uso.”
+                
+                O especialista ainda destacou que <br> “após a abstinência aguda, o nível de<br>  
+                consciência aumenta e o humor fica mais estável. Isso facilita o processo <br> 
+                de conscientização e a escolha de ferramentas de enfrentamento mais adequadas<br> 
+                para manter o paciente em abstinência.”Nessa etapa, o apoio dos amigos e<br> 
+                 familiares é crucial para que o indivíduo consiga ter a força psicológica <br> 
+                necessária à continuidade de seu propósito. Vale destacar que o sucesso da <br> 
+                desintoxicação é determinante para preparar o paciente para as próximas <br> 
+                fases do tratamento.<br> 
+                </div> 
+                
+                
+                <div class="txt2"> 
+                <h2>Psicoterapia</h2>
+                
+                A intervenção psicoterapêutica consiste em um processo que propõe a<br>  
+                combinação de terapias de suporte psicológico com medicamentos. São<br>  
+                diversas fases e cada uma delas é estabelecida de acordo com a percepção<br> 
+                 do profissional quanto às principais necessidades do paciente.<br>  
+                O ideal é que essas intervenções terapêuticas combinadas sejam feitas<br> 
+                 em instituições especializadas e que disponibilizem uma equipe<br>  
+                multidisciplinar, composta por médicos clínicos, psiquiatras, psicólogos,<br> 
+                assistente social e outros. Além do uso de remédios, o trabalho de <br> 
+                aconselhamento auxilia na importância de evitar comportamentos que colocam<br> 
+                a saúde em risco.<br> 
+                
+                Por meio de uma intervenção multiprofissional é possível alcançar resultados<br>  
+                mais satisfatórios na reabilitação do paciente. Quando se trabalha em equipe,<br> 
+                 o compartilhamento de ideias ajuda a perceber, com mais clareza, a <br> 
+                necessidade de eventuais ajustes para tornar as terapias escolhidas ainda <br> 
+                mais eficientes.
+                </div>
+                
+                
+                
+                <div class="txt3"> 
+                <h3>Medicamentos</h3>
+                
+                As medicações devem ser criteriosamente escolhidas e monitoradas pela equipe<br> 
+                responsável. Ter esse cuidado é fundamental para que o dependente químico não<br> 
+                 abuse dos medicamentos ou adote alguma postura prejudicial à saúde.<br> 
+                Devido à própria dinâmica dos entorpecentes, a fisiologia de um organismo já<br> 
+                intoxicado exige a substituição das substâncias que lhe foram retiradas para<br> 
+                evitar a síndrome de abstinência.Muitas vezes, é necessário a prescrição de<br> 
+                 analgésicos para reduzir dores de cabeça e no corpo que surgem durante a<br>  
+                desintoxicação. Igualmente relevante é o apoio psicológico para ajudar no <br> 
+                controle de crises de ansiedade que podem gerar irritabilidade e mau humor.<br> 
+                </div>
+                
+                
+                
+                <div class="txt4">
+                <h>Internação</h>
+                
+                Atualmente, as instituições especializadas em recuperação da dependentes<br>  
+                químicos expandiram os tratamentos destinados ao apoio a quem não consegue<br> 
+                superar essa batalha sozinho. Sob esse contexto, as metodologias terapêuticas<br> 
+                são aplicadas sob uma ótica biopsicossocial do ser e focadas em suas principais<br> 
+                 necessidades.<br> 
+                
+                Por isso, a internação em hospitais especializados é importante para que o<br> 
+                 paciente receba todo o suporte necessário à superação do vício. Um dos propósitos <br> 
+                mais relevantes da internação é o afastamento de ambientes e de pessoas que usam<br> 
+                 drogas. Principalmente durante a quarentena, a internação pode ser a solução mais<br>  
+                viável para ajudar a quem precisa se livrar das drogas.<br> 
+                </div>
+       <h1>Bebidas Alcoólicas</h1>
+        <div class="txt5"> 
+                    
+          O álcool é a droga lícita mais usada no Brasil.<br>
+        Segundo o estudo, 66,4% das pessoas bebeu ao menos uma vez na vida.<br>  
+        Já 43,1% informaram ter bebido no último ano e 30,1% no último mês.<br>            
+        Entre os homens, 74,3% responderam que consumiram bebida alcoólica em algum<br>
+        momento de suas vidas – 51,6% no último ano e 38,8% no último mês.<br>               
+        Já entre as mulheres, os percentuais foram de 59%, 35% e 21,9% respectivamente.<br>               
+        Os números que mais preocupam, no entanto, não são esses, mas sim os do chamado<br>
+        binge drinking, que corresponde ao consumo abusivo de álcool em um único episódio <br>
+        – em geral, cinco ou mais doses.<br>Aproximadamente 25 milhões de brasileiros, ou 16,5%<br>
+        dos entrevistados, demonstraram esse tipo compulsão pela bebida.  Novamente, o índice <br>
+        entre os homens (24%) foi maior do que o registrado entre as mulheres (9,5%).<br>
+        </div>
+        
+        
+        
+        <h1>Tabaco</h1>
+                <div class="txt6"> 
+        
+        O tabaco se provou a segunda droga lícita mais usada no país. O estudo<br> 
+        apontou que 26,4 milhões de brasileiros já fizeram uso de algum produto<br>
+         com a substância no último ano – isso corresponde a 17,3% da população<br> 
+        nacional.Os cigarros industrializados são a preferência de 23,4 milhões.<br>
+        Quando analisado somente o número de pessoas que fumou cigarros<br>
+        industrializados alguma vez na vida, esse percentual sobe para 51 milhões.<br>
+         Ao fazermos um comparativo por gênero, uma vez mais os homens ficam à<br> 
+        frente das mulheres.Para focar só em um parâmetro, dos quase 21 milhões<br> 
+        que disseram ter fumado no último mês, 12 milhões são do sexo masculino <br>
+        e quase 9 milhões do feminino.O estudo também estimou o grau de<br> 
+        dependência do brasileiro à nicotina.<br> 
+        </div>
+        
+        <h1>LSD</h1>
+                 <div class="txt7"> 
+        
+        Dando sequência à lista, aparece o LSD. Experimentada por mais de 1,2<br> 
+        milhão de pessoas, a substância demonstra um perfil mais eventual de <br>
+        consumo, caindo para 289 mil (último ano) e, depois, para 60 mil (último mês).<br>
+        </div>
+        
+        
+        
+        <h1>Maconha,haxixe e skank</h1>
+                 <div class="txt8">
+        
+        Usada por 11,7 milhões de brasileiros ao menos uma vez na vida, a maconha<br> 
+        (e suas variações) é a droga ilícita mais consumida por aqui.<br>
+        Quando restringido para o uso no último ano do estudo, o número cai para<br> 
+        3,8 milhões. No último mês, desce ainda mais, para 2,2 milhões.<br>
+        </div>
+        
+        
+        <h1>Cocaína</h1>
+                 <div class="txt9">
+        
+        A cocaína é apontada como a segunda substância mais usada no país: 4,6 milhões<br>
+        experimentaram a droga, 1,3 milhão a consumiram no último ano e 461 mil no último mês.<br>
+        </div>
+        
+        
+        
+        <h1>Crack e similares</h1>
+                 <div class="txt8">
+        
+        O crack e seus similares, como o oxi e a merla, por exemplo, que utilizam a<br>
+        mesma pasta-base, completam o pódio das drogas mais usadas no Brasil. Daqui em<br>
+         diante, é interessante observar não quem já experimentou a substância <br>
+        específica, mas quem manteve contato com ela no último ano e no mês.<br>
+        No caso do crack, 1,3 milhão teve algum contato com a droga, 451 mil usaram<br>
+         no último ano e 172 mil no último mês.<br>
+        </div>
+
+        </article>
+        <div class="separador"></div>
+    </main>
+    <footer class="footer">
+        <div class="footerFlex">
+            <p>
+                <img src="/img/logo-cura-vicio-white.png">
+            </p>
+            <br>
+            <p class="footerTxt">|&nbsp; &nbsp; © CuraVício, Inc. 2022.</p>
+            <p class="footerTxt">
+                &nbsp; &nbsp;| &nbsp; &nbsp;<a href="#">Click para voltar ao Topo :)</a>
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>
