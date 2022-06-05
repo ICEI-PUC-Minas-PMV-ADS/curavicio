@@ -25,7 +25,7 @@ body {
     flex-wrap: wrap;
 }
 
-img {
+.imgLogo {
     justify-content: center;
     max-width: 150px;
     margin: auto;
@@ -48,7 +48,86 @@ li {
     flex-wrap: wrap;
 }
 
-.buttonCadastro {
+/* LINKS */
+.menu li a {
+
+
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(17, 89, 82);
+    display: block;
+    text-decoration: none;
+    padding: 1px 15px 5px 0px;
+    margin-left: 0px;
+    border-radius: 10px;
+    border-start-start-radius: 35px;
+    border-end-end-radius: 100px;
+
+}
+
+/* LINKS efeito */
+.menu li a:hover {
+
+    font-size: 11px;
+    font-weight: bold;
+    padding: 1px 15px 5px 0px;
+    color: rgb(17, 89, 82);
+    display: block;
+    text-decoration: none;
+    background-color: rgb(186, 252, 250);
+
+}
+
+/* títulos, Home, Menu, e Sobre Nós */
+.menu li ul {
+
+    font-size: 14px;
+    color: rgb(40, 67, 64);
+    font-weight: bold;
+    margin-left: 1px; 
+
+}
+
+.separador {
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 35px;
+}
+
+.flexmenu {
+    gap: 25px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    /* max-height: 720px; */
+    justify-content: left;
+    margin: 0 auto;
+    color: rgb(40, 67, 64);
+    align-items: top;
+
+}
+
+.flexmenu>div {
+    flex: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.editText{
+    color: transparent;
+    background: transparent;
+    border: 2px solid #00ccff;
+    padding: 10px;
+    z-index: 5;
+    height: 100px;
+    width: flex;
+    font-family: 'Verdana';
+    font-size: 0.875em;
+}
+
+.buttonEmail {
     box-shadow: inset 0px -3px 7px 0px #29bbff;
     background: linear-gradient(to bottom, #00ccff 5%, #20b2f1 100%);
     background-color: #84c5eb;
@@ -64,12 +143,12 @@ li {
     text-decoration: none;
 }
 
-.buttonCadastro:hover {
+.buttonEmail:hover {
     background: linear-gradient(to bottom, #29ebeb 5%, #84c5eb 100%);
     background-color: #7dd5f6;
 }
 
-.buttonCadastro:active {
+.buttonEmail:active {
     position: relative;
     top: 1px;
 }
@@ -123,71 +202,30 @@ li {
     height: 100%;
 }
 
-/* LINKS */
-.menu li a {
-
-
-    font-size: 11px;
-    font-weight: bold;
-    color: rgb(17, 89, 82);
-    display: block;
-    text-decoration: none;
-    padding: 1px 15px 5px 0px;
-    margin-left: 0px;
-    border-radius: 10px;
-    border-start-start-radius: 35px;
-    border-end-end-radius: 100px;
-
-}
-
-/* LINKS efeito */
-.menu li a:hover {
-
-    font-size: 11px;
-    font-weight: bold;
-    padding: 1px 15px 5px 0px;
-    color: rgb(17, 89, 82);
-    display: block;
-    text-decoration: none;
-    background-color: rgb(186, 252, 250);
-
-}
-
-/* títulos, Home, Menu, e Sobre Nós */
-.menu li ul {
-
-    font-size: 14px;
-    color: rgb(40, 67, 64);
-    font-weight: bold;
-    margin-left: 1px;
-
-}
-
-.separador {
-    width: 100%;
-    background: rgb(255, 255, 255);
-    padding: 6px;
-    border-radius: 35px;
-}
-
-.flexmenu {
-    gap: 25px;
-    padding: 35px;
+.configImgBanner {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    max-width: 480px;
+    margin-top: 0px;
+    margin-bottom: none;
     display: flex;
-    flex-wrap: wrap;
-    max-width: 100%;
-    /* max-height: 720px; */
-    justify-content: left;
-    margin: 0 auto;
-    color: rgb(40, 67, 64);
-    align-items: top;
-
 }
 
-.flexmenu>div {
-    flex: 100%;
-    flex-wrap: wrap;
-    justify-content: center;
+.imgbanner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 240px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: bottom;
+    border-radius: 2% ;
+
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
 }
 
 .flexBannerMkt {
@@ -199,7 +237,7 @@ li {
     margin: 0 auto;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(300.71deg, rgba(127, 255, 0) 15.19%, rgb(227, 245, 255) 70.83%);
+    background: linear-gradient(300.71deg, rgba(0, 166, 255, 0.5) 6.99%, rgba(127, 255, 0) 15.19%, rgb(227, 245, 255) 70.83%, rgba(2, 255, 200, 0.5));
     color: rgb(40, 67, 64);
 }
 
@@ -212,13 +250,43 @@ li {
 
 }
 
+.flexBannerMktblog {
+    gap: 15px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 720px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(300.71deg, rgba(0, 255, 140, 0.5) 6.99%, rgb(9, 202, 157) 15.19%, rgb(0, 204, 255) 70.83%, rgba(226, 245, 241, 0.5));
+    color: rgb(255, 255, 255);
+}
+
+.flexBannerMktblog>div {
+    padding: 0px;
+    height: 250px;
+    display: flex;
+    flex: 1 1 300px;
+    flex-wrap: wrap;
+
+}
+
+.flexCorpo {
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: rgb(40, 67, 64);
+}
+
 .txtMain {
     align-items: center;
     font-size: larger;
     font-weight: lighter;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 /*A Flextxt corresponde a estrutura responsiva para o conteúdo de textos */
@@ -244,6 +312,25 @@ li {
 
 }
 
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    font-weight: bold;
+    color: #2fbbf7;
+    text-decoration: none;
+    text-align: left;
+}
+
+.txt4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    font-weight: bold;
+    color:  #00ccff;
+    text-decoration: none;
+}
+
 .txt1 {
     font-weight: bolder;
     font-size: larger;
@@ -255,10 +342,57 @@ li {
 .txt2 {
     font-weight: lighter;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
     font-size: 14px;
-    text-align: justify;
+    text-align:left;
 }
+
+.txt3 {
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align:left;
+}
+
+.txtBlocoJustify {
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-align:justify;
+    text-justify:distribute;
+    padding-top: 10px;
+    line-height: 1.6;
+    color: rgb(81, 94, 84);
+}
+
+.italico {
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: left;
+}
+
+label input[type="checkbox"] {
+    display: none;
+}
+
+label h4 {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.collapse {
+    height: 0px;
+    overflow: hidden;
+    transition: height 1.0s;
+}
+
+input:checked + .collapse {
+    height: 100%;
+}
+
+
+/* Configurações footer */
 
 .footerFlex {
     gap: 25px;
@@ -306,6 +440,6 @@ li {
     border-top: .05rem solid #e5e5e5;
 }
 
-.footer p:last-child {
-    margin-bottom: 0;
-}
+/* Carrocel CSS BLOG "Bootstrap nice carousel" */
+
+
