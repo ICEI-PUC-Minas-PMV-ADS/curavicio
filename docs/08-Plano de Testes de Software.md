@@ -34,7 +34,7 @@ Página Hitória
 
 ![HistoriaPaginaInicial](https://user-images.githubusercontent.com/100388026/173210715-178f39c1-c8c6-4c8b-a5ba-389f6064133c.png)
 
-# ***Print Screen Teste Funcional Ajuste De Tela***
+# ***Print Screen Teste Funcional Responsividade***
 Página História
 
 ![HistoriaAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210729-9d597477-56b4-487f-91e2-3111488e578c.png)
@@ -45,7 +45,7 @@ Página Artigos Cientificos
 
 ![TesteArtigosCientificosTestesFuncional](https://user-images.githubusercontent.com/100388026/173209857-22b78780-7e05-44cc-afda-d975a1674325.png)
 
-# ***Print Screen Teste Funcional Ajuste De Tela***
+# ***Print Screen Teste Funcional Responsividade***
 Página Artigos Cientificos
 
 ![TesteArtigosCientificosAjusteDeTelaDeAcordoComAparelhoII - Copia](https://user-images.githubusercontent.com/100388026/173210072-716255a6-638f-4f7a-a7ff-a9e67795a8f0.png)
@@ -65,7 +65,7 @@ Página Dependencias Químicas
 
 ![DependenciasQuimicasPaginaInicial](https://user-images.githubusercontent.com/100388026/173210413-51d28923-af08-45fe-bf8f-e0de2ea3e586.png)
 
-# ***Print Screen Teste Funcional Ajuste de Tela***
+# ***Print Screen Teste Funcional Responsividade***
 Página Dependencias Químicas
 
 ![DependenciasQuimicasAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210524-2b374275-fe06-445a-871b-06e6cb61c134.png)
