@@ -3,5 +3,13 @@ Foram feitos testes funcionais das páginas e pegamos como base celulares e tabl
 
 
 
-# Print Screen Teste Funcional: Página Artigos Cientificos
+# Print Screen Teste Funcional
+Página Artigos Cientificos
+
+
 ![TesteArtigosCientificosTestesFuncional](https://user-images.githubusercontent.com/100388026/173209857-22b78780-7e05-44cc-afda-d975a1674325.png)
+
+# Print Screen Teste Funcional Ajuste De Tela
+Página Artigos Cientificos
+
+![TesteArtigosCientificosAjusteDeTelaDeAcordoComAparelhoII - Copia](https://user-images.githubusercontent.com/100388026/173210072-716255a6-638f-4f7a-a7ff-a9e67795a8f0.png)
