@@ -3,7 +3,7 @@ Foram feitos testes funcionais das páginas pegando como base celulares e tablet
 
 |**Casos de Teste 1**     |                     |                     |
 |-------------------------| ------------------- | ------------------- |
-|**Telas Testadas**       | História, Contada a Gente, Dependências Químicas e Artigos Cientísticos|                     |
+|**Telas Testadas**       | História, Contada a Gente, Dependências Químicas e Artigos Cientísticos.|                     |
 |**Requisitos Associados** |  RF-03 e RF-06 | O site deve permitir ao usuário, visualizar notícias e informações sobre tratamento de dependências químicas e deve apresentar, opção de busca de conteúdo de acordo com o vício. |
 |**Objetivo do Teste**    |  Testar Funcionalidades dos links |Teste de responsividade, ou ajustes de telas de acordo com o aparelho utilizado seja celular, notebook, ou tablets.|
 |**Passos**               |  1ºTeste: Abrir o site pelo navegador clicar nos links disponíveis para visualizar os artigos e informações das páginas. | 2ºTeste: Abrir o site pelo navegador, clicar nos Três Pontinhos no lado superior direito, clicar em Mais Configurações, abrir Ferramentas do Desenvolvedor, após isso ajuste a tela no máximo e também no mínimo. |
