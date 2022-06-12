@@ -24,3 +24,12 @@ Página Contate a Gente
 
 ![ContateAGenteAposCliqueNosItens](https://user-images.githubusercontent.com/100388026/173210317-828121e1-c413-4fc4-b216-4afc15421e8a.png)
 
+# Print Screen Teste Funcional
+Página Dependencias Químicas
+
+![DependenciasQuimicasPaginaInicial](https://user-images.githubusercontent.com/100388026/173210413-51d28923-af08-45fe-bf8f-e0de2ea3e586.png)
+
+# Print Screen Teste Funcional Ajuste de Tela
+Página Dependencias Químicas
+
+![DependenciasQuimicasAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210524-2b374275-fe06-445a-871b-06e6cb61c134.png)
