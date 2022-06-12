@@ -57,3 +57,13 @@ Página Dependencias Químicas
 Página Dependencias Químicas
 
 ![DependenciasQuimicasAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210524-2b374275-fe06-445a-871b-06e6cb61c134.png)
+
+# ***Print Screen Teste Funcional***
+Página Clinicas
+
+![Clinicas](https://user-images.githubusercontent.com/100388026/173258215-206813fe-3b83-4ef6-b6be-74520f107815.png)
+
+# ***Print Screen Teste Funcional Responsividade***
+Página Clinicas
+
+![AjusteDeTela](https://user-images.githubusercontent.com/100388026/173258224-2896ca85-be51-45c6-a164-1a245dee1cbb.png)
