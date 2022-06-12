@@ -127,7 +127,7 @@ li {
     font-size: 0.875em;
 }
 
-.buttonEmail {
+.button {
     box-shadow: inset 0px -3px 7px 0px #29bbff;
     background: linear-gradient(to bottom, #00ccff 5%, #20b2f1 100%);
     background-color: #84c5eb;
@@ -143,12 +143,12 @@ li {
     text-decoration: none;
 }
 
-.buttonEmail:hover {
+.button:hover {
     background: linear-gradient(to bottom, #29ebeb 5%, #84c5eb 100%);
     background-color: #7dd5f6;
 }
 
-.buttonEmail:active {
+.button:active {
     position: relative;
     top: 1px;
 }
@@ -291,15 +291,35 @@ li {
 
 /*A Flextxt corresponde a estrutura responsiva para o conteúdo de textos */
 
+.flextxtLinks {
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    gap: 20px;
+    justify-items: left;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 70%;
+    margin: 0 auto;
+    color: rgb(40, 67, 64);
+}
+
+.flextxtLinks>div {
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 1 300px;
+
+}
+
 .flextxt {
 
     padding-top: 15px;
     padding-bottom: 15px;
     gap: 20px;
-    justify-content: justify;
     display: flex;
     flex-wrap: wrap;
-    max-width: 50%;
+    max-width: 70%;
     margin: 0 auto;
     color: rgb(40, 67, 64);
 }
@@ -320,6 +340,8 @@ a{
     color: #2fbbf7;
     text-decoration: none;
     text-align: left;
+    justify-content:left;
+    
 }
 
 .txt4{
@@ -329,6 +351,7 @@ a{
     font-weight: bold;
     color:  #00ccff;
     text-decoration: none;
+    justify-content:left;
 }
 
 .txt1 {
@@ -344,7 +367,9 @@ a{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 14px;
     text-align:left;
+    justify-content:left;
 }
+
 
 .txt3 {
     font-weight: lighter;
@@ -374,6 +399,7 @@ a{
 
 label input[type="checkbox"] {
     display: none;
+    
 }
 
 label h4 {
