@@ -1,5 +1,5 @@
 # Plano de Testes de Software
-Foram feitos testes funcionais das páginas pegando como base celulares e tablets, sendo um site responsivo, aos quais são mais utilizados hoje em dia e por este motivo desde o início foi pensado no ajuste das telas levando em conta a inclusão e adequação do site aos usuários, também utilizamos o código para orientar o usuário de modo que o mouse passe por uma opção apareça uma mensagem no cursor indicando a possibilidade de clique para navegar nos itens disponíveis, sendo documentado por meio de print screen das telas.
+Foram feitos testes funcionais de acordo como padrões progressive web app um exemplo é o emprego das páginas pegando como base celulares e tablets, sendo um site responsivo, aos quais são mais utilizados hoje em dia e por este motivo desde o início foi pensado no ajuste das telas levando em conta a inclusão e adequação do site aos usuários, também utilizamos o código para orientar o usuário de modo que o mouse passe por uma opção apareça uma mensagem no cursor indicando a possibilidade de clique para navegar nos itens disponíveis, sendo documentado por meio de print screen das telas.
 
 |**Casos de Teste 1**     |                     |                     |
 |-------------------------| ------------------- | ------------------- |
