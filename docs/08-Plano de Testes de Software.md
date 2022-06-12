@@ -13,3 +13,14 @@ Página Artigos Cientificos
 Página Artigos Cientificos
 
 ![TesteArtigosCientificosAjusteDeTelaDeAcordoComAparelhoII - Copia](https://user-images.githubusercontent.com/100388026/173210072-716255a6-638f-4f7a-a7ff-a9e67795a8f0.png)
+
+# Print Screen Teste Funcional
+Página Contate a Gente
+
+![ContateAGenteAntesDeClicar](https://user-images.githubusercontent.com/100388026/173210237-93c07e98-96ad-4e05-bcba-790da1817c85.png)
+
+# Print Screen Teste Funcional De LINKS
+Página Contate a Gente
+
+![ContateAGenteAposCliqueNosItens](https://user-images.githubusercontent.com/100388026/173210317-828121e1-c413-4fc4-b216-4afc15421e8a.png)
+
