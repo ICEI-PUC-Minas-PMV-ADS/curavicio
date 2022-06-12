@@ -1,19 +1,69 @@
 # Plano de Testes de Software
+Foram feitos testes funcionais das páginas pegando como base celulares e tablets, sendo um site responsivo, aos quais são mais utilizados hoje em dia e por este motivo desde o início foi pensado no ajuste das telas levando em conta a inclusão e adequação do site aos usuários, também utilizamos o código para orientar o usuário de modo que o mouse passe por uma opção apareça uma mensagem no cursor indicando a possibilidade de clique para navegar nos itens disponíveis, sendo documentado por meio de print screen das telas.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+|**Casos de Teste 1**     |                     |                     |
+|-------------------------| ------------------- | ------------------- |
+|**Telas Testadas**       | História, Contada a Gente, Dependências Químicas e Artigos Cientísticos.|                     |
+|**Requisitos Associados** |  RF-03 e RF-06 | O site deve permitir ao usuário, visualizar notícias e informações sobre tratamento de dependências químicas e deve apresentar, opção de busca de conteúdo de acordo com o vício. |
+|**Objetivo do Teste**    |  Testar Funcionalidades dos links. |Teste de responsividade, ou ajustes de telas de acordo com o aparelho utilizado seja celular, notebook, ou tablets.|
+|**Passos**               |  1ºTeste: Abrir o site pelo navegador clicar nos links disponíveis para visualizar os artigos e informações das páginas. | 2ºTeste: Abrir o site pelo navegador, clicar nos Três Pontinhos no lado superior direito, clicar em Mais Configurações, abrir Ferramentas do Desenvolvedor, após isso ajuste a tela no máximo e também no mínimo. |
+|**Critérios de Êxito**   | Para atender aos critérios o site deve ser acessível pelo navegador seja ele chrome, edge, ou mozilla e permitir navegar pelo Menu e links disponíveis |Links abre corretamente, a tela é responsiva. |
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|**Casos de Teste**       | **CT-2 **           |                     |
+|-------------------------| ------------------- | ------------------- |
+|**Telas Testadas**       |                     |                     |
+|**Requisitos Associados** |  Célula de conteúdo |  Célula de conteúdo |
+|**Objetivo do Teste**    |  Célula de conteúdo |  Célula de conteúdo |
+|**Passos**               |  Célula de conteúdo |  Célula de conteúdo |
+|**Critérios de Êxito**   |  Célula de conteúdo |  Célula de conteúdo |
+
+
+
+
+
+
+# Registro de Testes de Software
+Os resultados obtidos nos testes de software realizados são descritos abaixo. 
+
+# ***Print Screen Teste Funcional***
+Página Hitória
+
+![HistoriaPaginaInicial](https://user-images.githubusercontent.com/100388026/173210715-178f39c1-c8c6-4c8b-a5ba-389f6064133c.png)
+
+# ***Print Screen Teste Funcional Responsividade***
+Página História
+
+![HistoriaAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210729-9d597477-56b4-487f-91e2-3111488e578c.png)
+
+# ***Print Screen Teste Funcional***
+Página Artigos Cientificos
+
+
+![TesteArtigosCientificosTestesFuncional](https://user-images.githubusercontent.com/100388026/173209857-22b78780-7e05-44cc-afda-d975a1674325.png)
+
+# ***Print Screen Teste Funcional Responsividade***
+Página Artigos Cientificos
+
+![TesteArtigosCientificosAjusteDeTelaDeAcordoComAparelhoII - Copia](https://user-images.githubusercontent.com/100388026/173210072-716255a6-638f-4f7a-a7ff-a9e67795a8f0.png)
+
+# ***Print Screen Teste Funcional***
+Página Contate a Gente
+
+![ContateAGenteAntesDeClicar](https://user-images.githubusercontent.com/100388026/173210237-93c07e98-96ad-4e05-bcba-790da1817c85.png)
+
+# ***Print Screen Teste Funcional De LINKS***
+Página Contate a Gente
+
+![ContateAGenteAposCliqueNosItens](https://user-images.githubusercontent.com/100388026/173210317-828121e1-c413-4fc4-b216-4afc15421e8a.png)
+
+# ***Print Screen Teste Funcional***
+Página Dependencias Químicas
+
+![DependenciasQuimicasPaginaInicial](https://user-images.githubusercontent.com/100388026/173210413-51d28923-af08-45fe-bf8f-e0de2ea3e586.png)
+
+# ***Print Screen Teste Funcional Responsividade***
+Página Dependencias Químicas
+
+![DependenciasQuimicasAjusteDeTela](https://user-images.githubusercontent.com/100388026/173210524-2b374275-fe06-445a-871b-06e6cb61c134.png)
