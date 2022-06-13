@@ -72,3 +72,8 @@ Página Clinicas
 Página Clinicas
 
 ![AjusteDeTela](https://user-images.githubusercontent.com/100388026/173258224-2896ca85-be51-45c6-a164-1a245dee1cbb.png)
+
+# ***Print Screen Teste Funcional e Responsividade***
+Página Membros Interdiciplinares
+
+![Clinicas - Copia](https://user-images.githubusercontent.com/100388026/173271553-fb85f328-fad9-416e-aefd-0e6fba968c20.png)
