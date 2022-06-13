@@ -103,10 +103,10 @@ function writeClinicas(){
         let htmlClinicas = ""
         clinicas.forEach((clinica) => {
           if (clinica.cidade === clinicaSelecionada) {
-            htmlClinicas += `<li><div class="txt4">${clinica.nome} - ${clinica.telefone} </div><br><br> <iframe
+            htmlClinicas += `<li><div class="txt4">${clinica.nome} - ${clinica.telefone} </div><br><br>  <div class="embed-container"> <iframe
           src="${clinica.localizacao}"
           width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe><li>`
+          referrerpolicy="no-referrer-when-downgrade"></iframe></div><li>`
           }
         })
         // clinicas.filter((clinica)=> clinicaSelecionada === clinica.cidade).forEach((clinica)=> {
@@ -140,9 +140,9 @@ function writeMembros(){
       const membroSelecionado = event.target.value;
       const container = document.getElementById('membros');
       let htmlMembro = ""
-      membros.forEach((membros) => {
-        if (membros.cidade === membroSelecionado) {
-          htmlMembro += `<li><div class="txt4">${membros.nome} - ${membros.telefone} </div><br><br><li>`
+      membros.forEach((membro) => {
+        if (membro.cidade === membroSelecionado) {
+          htmlMembro += `<li><div class="txt4">${membro.nome} - ${membro.telefone} </div><br><br><li>`
         }
       })
       container.innerHTML = htmlMembro;
@@ -154,7 +154,7 @@ function writeMembros(){
 }
 
 function writeGrupo(){
-  const grupo = [
+  const grupos = [
     {
       "nome":"A. A. Grupo Belo Horizonte - 02",
       "cidade": "Belo Horizonte",
@@ -205,16 +205,16 @@ function writeGrupo(){
       "telefone": "(31)3224-7744"
   },
   ];
-  function handleSelectCities(event) {
+  function handleSelectCities1(event) {
   const grupoSelecionado = event.target.value;
-  const container = document.getElementById('grupo');
+  const container = document.getElementById('grupos');
   let htmlGrupo = ""
-  grupo.forEach((grupo)=> {
+  grupos.forEach((grupo)=> {
       if(grupo.cidade === grupoSelecionado){
-          htmlGrupo += `<li>${grupo.nome} - ${grupo.telefone} <br/> <iframe
+          htmlGrupo += `<li><div class="txt4"> ${grupo.nome} - ${grupo.telefone} </div><br><br>  <div class="embed-container"> <iframe
           src="${grupo.localizacao}"
           width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe><li>`
+          referrerpolicy="no-referrer-when-downgrade"></iframe></div><li>`
       }
   })
   // clinicas.filter((clinica)=> clinicaSelecionada === clinica.cidade).forEach((clinica)=> {
@@ -227,7 +227,7 @@ function writeGrupo(){
   }
   (function(){
   const select = document.getElementById('lista-grupos');
-  select.addEventListener('change', handleSelectCities)
+  select.addEventListener('change', handleSelectCities1)
   })()
   }
   
@@ -237,7 +237,7 @@ function render(){
     document.getElementById("footer").innerHTML = writeFooter();
     document.getElementById("clinicas").innerHTML = writeClinicas();
     document.getElementById("membros").innerHTML = writeMembros();
-    document.getElementById("grupo").innerHTML = writeGrupo();
+    document.getElementById("grupos").innerHTML = writeGrupo();
 }
 
 
