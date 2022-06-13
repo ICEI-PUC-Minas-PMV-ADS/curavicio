@@ -17,6 +17,11 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 # Registro de Testes de Software
 Os resultados obtidos nos testes de software realizados são descritos abaixo. 
 
+# ***Print Screen Teste Funcional Responsividade***
+Página Blog Cura Vício
+
+![BlogCuraVicioPaginaInicial](https://user-images.githubusercontent.com/100388026/173265194-7d323fe6-06e5-4f24-9c97-0f099744bd78.png)
+
 # ***Print Screen Teste Funcional***
 Página Hitória
 
