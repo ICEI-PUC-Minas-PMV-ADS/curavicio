@@ -123,7 +123,7 @@ function writeClinicas(){
       })();
 }
 
-function writegrupo(){
+function writeGrupo(){
 const grupo = [
   {
     "nome":"A. A. Grupo Belo Horizonte - 02",
@@ -181,7 +181,7 @@ const container = document.getElementById('grupo');
 let htmlgrupo = ""
 grupo.forEach((grupo)=> {
     if(grupo.cidade === grupoSelecionado){
-        htmlgrupo += `<li>${grupo.nome} - ${grupo.telefone} <br/> <iframe
+        htmlGrupo += `<li>${grupo.nome} - ${grupo.telefone} <br/> <iframe
         src="${grupo.localizacao}"
         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"></iframe><li>`
@@ -193,10 +193,10 @@ grupo.forEach((grupo)=> {
 //     width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
 //     referrerpolicy="no-referrer-when-downgrade"></iframe><li>`
 // })
-container.innerHTML = htmlgrupo;
+container.innerHTML = htmlGrupo;
 }
 (function(){
-const select = document.getElementById('lista-grupos');
+const select = document.getElementById('lista-grupo');
 select.addEventListener('change', handleSelectCities)
 })()
 }
