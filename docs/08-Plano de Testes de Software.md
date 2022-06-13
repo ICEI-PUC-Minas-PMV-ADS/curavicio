@@ -12,10 +12,3 @@ Utilizando o navegador conseguimos fazer uma auditoria por meio da ferramenta do
 
 
 
-|**Casos de Teste 2**       |            |                     |
-|-------------------------| ------------------- | ------------------- |
-|**Telas Testadas**       |                     |                     |
-|**Requisitos Associados** |  Célula de conteúdo |  Célula de conteúdo |
-|**Objetivo do Teste**    |  Fazer uma auditoria testando o site como um todo sendo performance, Progressive web app, acessibilidade e boas práticas.  | Para assim sabermos se o site é ágil a taxa de aceitação em outros mecanismo e também compatibilidade, verificar a tamanho de fonte, contraste se o site pode ou não dar zoom.
-|**Passos**               |  1ºAbrir o navegador no modo anônimo, clique nos três pontinhos no canto superior direito, vá para Mais Ferramentas e abra Ferramentas do desenvolvedor | Em ferramentas do desenvolvedor ache Light House e marque as opções a ser testada performance, boas práticas, SEO, progressive web app e teste só para desktop, após isto gere o "reporte" e avaliação automática irá ser feita. |
-|**Critérios de Êxito**   |  Site não apresenta erros, carrega corretamente e é funcional |   |
