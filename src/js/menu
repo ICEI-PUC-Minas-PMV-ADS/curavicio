@@ -240,3 +240,4 @@ function render(){
     document.getElementById("grupo").innerHTML = writeGrupo();
 }
 
+
