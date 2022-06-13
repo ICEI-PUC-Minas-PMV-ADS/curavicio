@@ -14,4 +14,4 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 
 # Template padrão do site
-Pegamos como base a página do Blog Cura Vício, pois é a inicial e se fez ideal para estarmos incrementando algumas funcionalidades nas demais, mas mantendo a identidade visual e estilo do site utilizando o html e css conseguimos ajustar a responsividade
+Pegamos como base a página do Blog Cura Vício, pois é a inicial e se fez ideal para estarmos incrementando algumas funcionalidades nas demais, mas mantendo a identidade visual e estilo do site utilizando o html e css conseguimos usar temas e cores que traz certa tranquilidade ao usuário do site e também ajustar a responsividade
