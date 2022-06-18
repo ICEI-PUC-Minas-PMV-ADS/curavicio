@@ -15,7 +15,7 @@ Note que o **Header** padronizado como:  ***"cabeçalho"*** sendo ele o elemento
 
 <img src="https://user-images.githubusercontent.com/86859418/174416869-7ad8b628-0469-432e-8b0a-8946b38764ec.jpg">
 
-No **Main** temos o container do ***"banner"*** onde seu elemento estrutural é o ***"conteúdo"*** sendo replicado para todas as telas que necessite deste padrão podendo apenas mudar seu conteúdo. 
+No **Main** temos o container do ***"banner"*** onde seu elemento estrutural faz parte de ***"conteúdo"*** desse modo ele pode ser replicado para todas as telas que necessite deste padrão podendo apenas mudar o seu conteúdo. 
 
 <img src="https://user-images.githubusercontent.com/86859418/174416890-35f54399-f891-4af3-bd0e-7478c224511b.jpg">
 
