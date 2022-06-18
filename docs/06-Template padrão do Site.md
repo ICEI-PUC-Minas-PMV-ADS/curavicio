@@ -6,4 +6,4 @@
  
 # ***HTML/templete padrão:***
 
-[![ArquiteturaCorreto](https://user-images.githubusercontent.com/100388026/173265908-c2ec12c5-4b9e-4a4b-9662-f60abf6f7d55.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/issues/1#issuecomment-1159320617)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/issues/1#issuecomment-1159320617
