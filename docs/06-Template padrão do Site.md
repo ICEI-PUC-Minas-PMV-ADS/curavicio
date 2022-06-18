@@ -7,6 +7,7 @@ A estrutura padrão definida para todas as telas se baseiam no **Home Page** ond
  
 ## ***Template padrão***
 
+ O Site foi desenvolvido de forma responsiva utilizando **Flexbox** um recurso do ***CSS3*** que serve de modelo para desenvolvimento de layouts para websites e aplicações web visando organizar elementos dentro de contêiners de forma flexível conforme sua necessidade.
 
 <img src="https://user-images.githubusercontent.com/86859418/174415194-7664f7ee-a460-4060-96a4-2d91021ddeb9.jpg">
 
