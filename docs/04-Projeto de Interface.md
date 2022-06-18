@@ -67,50 +67,7 @@ Ao clicar no link **Membros Interdisciplinares** no cabeçalho é gerado na estr
 A navegação por essa tela permite acessar uma lista de ***Membros Interdisciplinares***, sendo assim o tópico escolhido pelo usuário deve ser exibido na estrutura ***"conteúdo"***.
 ##
 
-##
-<img src="https://user-images.githubusercontent.com/86859418/164996303-33e3429e-f3f8-4439-93c3-cb48b11a2cb4.jpg">
 
-## Login
-Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Logar"*** onde os usuários cadastrados poderão realizar o seu acesso.
-Ao clicar no botão **Logar** no cabeçalho é gerado na tela um ***modal*** de **Login**.
-A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo da plataforma pelo perfil.
-##
-
-##
-<img src="https://user-images.githubusercontent.com/86859418/164996468-678a67bd-dad6-4a09-a30e-78f075ad1345.jpg">
-
-## Tipo de Usuário
-Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
-O Usuário visitante navegando pelo ***cabeçalho*** ao clicar no botão ***"Cadastro"*** abrirá a tela **Tipo de Usuário** onde o usuário escolhe entre as opções: ***Dependente Químico, Codependente e Padrinho ou Madrinha***.
-Na navegação específica a esta tela abaixo encontra-se na estrutura de ***"conteúdo"*** artigos do **blog Cura Vício** como: tipos de usuários, entre outros artigos relacionados.
-##
-
-##
-<img src="https://user-images.githubusercontent.com/86859418/164997451-acf4ce55-c220-4ccd-b5c1-fa9c2c8e2810.jpg">
-
-## Cadastro de Dependente Químico ou Codependente
-Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
-O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Dependente Químicos***, sendo assim abrirá a tela ***Cadastro de Dependente Químico ou Codependente*** com formulário específico para: ***Dependente Químico e Codependente***.
-##
-
-##
-<img src="https://user-images.githubusercontent.com/86859418/164997028-03d33a3c-711a-4f20-83a7-558bd22c0cf0.jpg">
-
-## Cadastro de Padrinho ou Madrinha
-Conforme a orientação do User Flow na **Landing Page** e nas demais telas no ***cabeçalho*** se encontra o botão de ***"Cadastro"*** onde os usuários visitantes poderão realizar o seu acesso.
-O usuário ao selecionar o ***tipo de usuário*** a cadastrar escolhe a opção: ***Madrinha***, sendo assim abrirá a tela ***Cadastro de Padrinho ou Madrinha*** com o formulário especifico para ***"Padrinhos ou Madrinhas"*** ao efetivar seu cadastro a próxima etapa é cadastrar o ***"Dependente Químico" ou "Codependente"*** relacionando-o ao cadastro do ***"Padrinhos ou Madrinhas"*** desse modo o sistema obtém as informações necessárias, facilitando a atitude de ajuda do ***usuário apadrinhador***, o possibilitando a usurfruir do conteúdo de forma categórica.
-##
-
-##
-<img src="https://user-images.githubusercontent.com/86859418/164997852-fca716ba-fde0-4e3d-828c-489c96d5a531.jpg">
-
-## Perfil de Usuário
-Após o cadastro é exibida a tela com o ***Perfil do Usuário***.
-A navegação do usuário logado o permitirá usurfruir das funcionalidades de filtragem do conteúdo da plataforma pelo **Perfil de Usuário**.
-##
-
-##
-<img src="https://user-images.githubusercontent.com/86859418/164998020-10c423f7-868c-4d0b-bc08-b2e8639f84d9.jpg">
 
 
 
