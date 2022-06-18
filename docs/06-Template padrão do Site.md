@@ -4,7 +4,7 @@
 Conforme a orientação do User Flow a primeira tela prototipada foi a **Home Page** desse modo o template padrão foi baseado na **Home Page**. Em sua composição temos como elementos estruturais o: ***cabeçalho, conteúdo e rodapé***.
 #
 A estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **conteúdos** para todas as telas, e como base a estrutura ***"cabeçalho"*** como o menu e ***"rodapé"*** como o footer (localizados na área de margem na parte inferior de uma página). 
-##
+
  
 ## ***Template padrão***
 
