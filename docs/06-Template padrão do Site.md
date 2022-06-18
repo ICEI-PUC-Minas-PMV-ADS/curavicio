@@ -11,6 +11,8 @@ A estrutura padrão definida para todas as telas se baseiam no **Home Page** ond
 
 <img src="https://user-images.githubusercontent.com/86859418/174415194-7664f7ee-a460-4060-96a4-2d91021ddeb9.jpg">
 
+Note que o **Header** padronizado como:  ***cabeçalho*** sendo ele o elemento estrutural responsável por replicar em todas as telas o conteúdo do ***"menu"***. 
+
 <img src="https://user-images.githubusercontent.com/86859418/174416869-7ad8b628-0469-432e-8b0a-8946b38764ec.jpg">
 
 <img src="https://user-images.githubusercontent.com/86859418/174416890-35f54399-f891-4af3-bd0e-7478c224511b.jpg">
