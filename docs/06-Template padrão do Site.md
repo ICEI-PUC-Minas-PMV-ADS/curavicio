@@ -1,8 +1,7 @@
 # Template padrão do site
 
-## Como Padrão a Home Page possui a estrutura do template:
-Conforme a orientação do User Flow a primeira tela a ser prototipada foi a **Home Page**.
-A estrutura padrão definida para todas as telas se baseia na **Home Page** onde em sua composição temos como elementos estruturais o: ***cabeçalho, conteúdo e rodapé***. A estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para todas as telas e como base as estruturas ***cabeçalho*** como "menu" e ***rodapé*** como "footer" (localizados na área de margem na parte inferior de uma página). 
+## Estrutura do template:
+Conforme a orientação do User Flow a primeira tela a ser prototipada foi a **Home Page** sendo assim a estrutura padrão definida para todas as telas se baseia na **Home Page**, em sua composição temos como elementos estruturais o: ***cabeçalho, conteúdo e rodapé***. A estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para todas as telas e como base as estruturas ***cabeçalho*** como "menu" e ***rodapé*** como "footer" (localizados na área de margem na parte inferior de uma página). 
 ##
  
 ## ***Template padrão***
