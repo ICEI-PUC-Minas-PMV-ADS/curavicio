@@ -25,6 +25,14 @@ No **Main** temos o container do ***"banner"*** onde seu elemento estrutural faz
 
 <img src="https://user-images.githubusercontent.com/86859418/174416890-35f54399-f891-4af3-bd0e-7478c224511b.jpg">
 
+Ainda no **Main** temos o container ***"article"*** ou artigos pode ter textos imagens vídeos, seu elemento estrutural faz parte de ***"conteúdo"*** desse modo ele pode ser replicado para todas as telas mudando o seu conteúdo. 
+
+#
+
 <img src="https://user-images.githubusercontent.com/86859418/174416904-25a9fb42-5584-406f-9727-36bcb5e7d857.jpg">
+
+No **footer** temos o elemento estrutural ***"footer"*** desse modo ele pode ser replicado para todas as telas tendo o seu conteúdo padronizado. 
+
+#
 
 <img src="https://user-images.githubusercontent.com/86859418/174416910-f28889f6-0204-409f-a083-d85c563de319.jpg">
