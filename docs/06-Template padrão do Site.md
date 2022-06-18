@@ -6,4 +6,4 @@
  
 # ***HTML/templete padrão:***
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio/issues/1#issuecomment-1159320617">
+<img src="https://user-images.githubusercontent.com/86859418/174415194-7664f7ee-a460-4060-96a4-2d91021ddeb9.jpg">
