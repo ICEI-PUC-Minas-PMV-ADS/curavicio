@@ -5,6 +5,15 @@ Conforme a orietação do User Flow a primeira tela a ser prototipada foi a **Ho
 A estrutura padrão definida para todas as telas se baseiam no **Home Page** onde em sua composição temos como elementos estruturais o: ***cabeçalho, conteúdo e rodapé***, a estrutura ***"conteúdo"*** é a parte estrutural onde aloca os **"conteúdos"** para as outras telas.
 ##
  
-## ***template padrão:***
+## ***Template padrão***
+
 
 <img src="https://user-images.githubusercontent.com/86859418/174415194-7664f7ee-a460-4060-96a4-2d91021ddeb9.jpg">
+
+<img src="https://user-images.githubusercontent.com/86859418/174416869-7ad8b628-0469-432e-8b0a-8946b38764ec.jpg">
+
+<img src="https://user-images.githubusercontent.com/86859418/174416890-35f54399-f891-4af3-bd0e-7478c224511b.jpg">
+
+<img src="https://user-images.githubusercontent.com/86859418/174416904-25a9fb42-5584-406f-9727-36bcb5e7d857.jpg">
+
+<img src="https://user-images.githubusercontent.com/86859418/174416910-f28889f6-0204-409f-a083-d85c563de319.jpg">
