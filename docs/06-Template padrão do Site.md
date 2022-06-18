@@ -32,7 +32,7 @@ Ainda no **Main** temos o container ***"article"*** ou artigos podendo ter texto
 
 <img src="https://user-images.githubusercontent.com/86859418/174416904-25a9fb42-5584-406f-9727-36bcb5e7d857.jpg">
 
-No **footer** temos o elemento estrutural ***"footer"*** desse modo ele pode ser replicado para todas as telas tendo o seu conteúdo padronizado. 
+No **footer** temos o elemento estrutural ***"rodapé"*** desse modo ele é replicado para todas as telas tendo o seu conteúdo padronizado. 
 
 #
 
