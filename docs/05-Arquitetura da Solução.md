@@ -10,7 +10,7 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** 
   - **Páginas Web** - Conjunto de arquivos ***HTML, CSS, JavaScript** e imagens.
    - **Local Storage** 
- - **News API** - ***Google Maps, Whatsapp e Google Meet***.
+ - **News API** - ***Google Maps, Formsubmit***.
  - **Hospedagem** - ***GitHub***. 
 
 
