@@ -115,19 +115,30 @@ li {
     justify-content: center;
 }
 
-.editText{
-    color: transparent;
-    background: transparent;
+.inputText{
+    color: rgb(40, 67, 64);
+    background: rgb(255, 255, 255);
     border: 2px solid #00ccff;
     padding: 10px;
     z-index: 5;
-    height: 100px;
+    height: 30px;
     width: flex;
     font-family: 'Verdana';
-    font-size: 0.875em;
+    font-size: 18px;
+
 }
 
-
+.editText{
+    color: rgb(40, 67, 64);
+    background: rgb(255, 255, 255);
+    border: 2px solid #00ccff;
+    padding: 10px;
+    z-index: 5;
+    height: 185px;
+    width: flex;
+    font-family: 'Verdana';
+    font-size: 18px;
+}
 
 .button {
     box-shadow: inset 0px -3px 7px 0px #29bbff;
@@ -180,6 +191,7 @@ li {
     position: relative;
     top: 1px;
 }
+
 
 /*Container responsivo para iframe do youtube e afins */
 .embed-container {
@@ -294,7 +306,6 @@ li {
 /*A Flextxt corresponde a estrutura responsiva para o conteúdo de textos */
 
 .flextxtLinks {
-
     padding-top: 15px;
     padding-bottom: 15px;
     gap: 20px;
@@ -380,6 +391,28 @@ a{
     text-align:left;
 }
 
+.txtModal{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    justify-content:left;
+}
+
+.txtBlocoModal {
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    color:  #00ccff;
+    text-decoration: none;
+    text-align:center;
+    line-height: 1.6;
+}
+
+
 .txtBlocoJustify {
     font-weight: normal;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -412,13 +445,72 @@ label h4 {
 .collapse {
     height: 0px;
     overflow: hidden;
-    transition: height 1.0s;
+    transition: height 2.5s;
 }
+
 
 input:checked + .collapse {
     height: 100%;
+    width: 100%;
 }
 
+.collapseLinks {
+    height: 0px;
+    overflow:scroll;
+    transition: height 2.0s;
+}
+
+input:checked + .collapseLinks {
+    height: 100%;
+    width: 100%;
+    
+}
+
+/* Configurações Modal */
+
+.modal {
+    background: linear-gradient(300.71deg, rgba(2, 255, 200, .5 ) 15.19% , rgba(0, 166, 255, 0.5) 70.83% );
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height:100vh;
+    display: none;
+    
+}
+
+.modal-content {
+    margin: 0 auto;
+    margin-top: 15%;
+    max-width: 350px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 2px solid rgba(2, 255, 200);
+}
+
+.modal-header, .modal-body, .modal-footer {
+    padding: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.modal-body {
+    justify-content: center;
+}
+
+.modal-header {
+    background: linear-gradient(300.71deg, rgba(2, 255, 200) 15.19%, rgba(0, 166, 255) 70.83%);
+    justify-content: center;
+}
+
+.modal-footer {
+    background: linear-gradient(300.71deg, rgba(2, 255, 200) 15.19%, rgba(0, 166, 255) 70.83%);
+    justify-content: center;
+}
 
 /* Configurações footer */
 

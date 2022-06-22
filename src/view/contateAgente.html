@@ -40,15 +40,34 @@
             <div class="txt2"><strong>> Dúvidas ou sugestões:</strong><br>
               atendimento@curavicio.com.br<br><br><strong>> Parcerias:</strong><br>
               curavicio@curavicio.com.br<br><br><strong>> Doações:</strong><br> doacoes@curavicio.com.br
-            </div><br>
-            <div>
-              <textarea class="editText" id="myText">
-          </textarea>
-            </div><br>
-            <div>
-              <button class="button" onclick="sendMail(); return false">Enviar e-mail</button>
-            </div>
+            </div><br><br>
+            <form action="https://formsubmit.co/d6b2af5c922f1e1312dc0130a68389f2" method="POST">
+
+              <div class="txt2" for="Nome"><label><strong>Nome:</strong></label></div><br>
+              <div><input class="inputText" required type="text" name="name"></div><br>
+              <span class="erro"></span>
+
+              <div class="txt2"><label><strong>Email:</strong></label></div><br>
+              <div><input class="inputText" required type="email" name="email"></div><br>
+              <span class="erro"></span>
+
+              <div class="txt2"><label><strong>Assunto:</strong></label></div><br>
+              <div><input class="inputText" required type="assunto" name="subject"></div><br>
+              <span class="erro"></span>
+
+              <div class="txt2"><label><strong>Messagem:</strong></label></div><br>
+              <div><textarea class="editText" required name="comments" cols="15" rows="5"></textarea></div><br>
+              <span class="erro"></span>
+
+              <div><input class="button" required type="submit" onClick="openModal('dv-modal')" value="Enviar"></div><br>
+              <span class="erro"></span>
+
+              <input type="hidden" name="_next" value="http://localhost:5500/view/contateAgente.html">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="text" name="_honey" style="display:none">
+
         </label>
+      </div>
     </article>
     <div class="separador"></div>
     <article class="flextxt">
@@ -70,12 +89,12 @@
         outros temas afins, acesse também:
       </div>
     </article>
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-      <article>
+    <article>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <label class="flextxtLinks">
           <div class="txt4" title="Clique para expandir os links utéis">>> Links útéis</div><br>
           <input type="checkbox" />
-          <div id="col3Content" class="collapse">
+          <div id="col3Content" class="collapseLinks">
             <div class="txt2">
               <strong>O CVV – Centro de Valorização da Vida</strong><br>
               <a href="https://www.cvv.org.br/" target="_blank">>> www.cvv.org.br</a><br><br><strong>Movimento Saber
@@ -128,10 +147,25 @@
             </div>
           </div>
         </label>
-      </article>
+    </article>
   </main>
-  <div class="separador"></div>
-  <div id="footer"></div>
+  <div id="dv-modal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header" class="txtBlocoJustify">
+        <p class="txtModal">&nbsp; &nbsp;>> E-mail enviado com sucesso!</p>
+      </div>
+      <div class="modal-body">
+        <p class="txtBlocoModal">Em breve a equipe do Cura Vício<br> entrará em contato, obrigado!</p>
+      </div>
+      <div class="modal-footer">
+        <button class="button" onClick="closeModal('dv-modal')">Fechar</button>
+      </div>
+    </div>
+  </div>
+    <br>
+    <br>
+    <div class="separador"></div>
+    <div id="footer"></div>
 </body>
 
 </html>
