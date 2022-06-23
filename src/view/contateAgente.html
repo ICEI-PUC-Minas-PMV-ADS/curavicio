@@ -18,7 +18,7 @@
     <article class="flexBannerMkt">
       <p>
       <p class="txtMain">
-        Caso deseje tirar dúvidas<br> ou saber como ajudar a esta <br>iniciativa, <strong>contate-nos</strong>
+        Caso deseje tirar dúvidas<br> ou saber como <br> ajudar a esta iniciativa,<br> <strong>contate-nos</strong>
       </p>
       </p>
       <br>
@@ -41,30 +41,35 @@
               atendimento@curavicio.com.br<br><br><strong>> Parcerias:</strong><br>
               curavicio@curavicio.com.br<br><br><strong>> Doações:</strong><br> doacoes@curavicio.com.br
             </div><br><br>
-            <form action="https://formsubmit.co/d6b2af5c922f1e1312dc0130a68389f2" method="POST">
+            <form name="form" action="https://formsubmit.co/d6b2af5c922f1e1312dc0130a68389f2" method="POST">
 
-              <div class="txt2" for="Nome"><label><strong>Nome:</strong></label></div><br>
+              <div class="txt2"><label><strong>Nome:</strong></label></div><br>
               <div><input class="inputText" required type="text" name="name"></div><br>
               <span class="erro"></span>
 
-              <div class="txt2"><label><strong>Email:</strong></label></div><br>
+              <div class="txt2"><label><strong>Preencha seu e-mail:</strong></label></div><br>
               <div><input class="inputText" required type="email" name="email"></div><br>
               <span class="erro"></span>
 
+              <div class="txt2"><label><strong>Envie-me uma cópia deste e-mail:</strong></label></div><br>
+              <div><input class="inputText" required type="email" name="_cc"></div><br>
+              <span class="erro"></span>
+
               <div class="txt2"><label><strong>Assunto:</strong></label></div><br>
-              <div><input class="inputText" required type="assunto" name="subject"></div><br>
+              <div><input class="inputText" required type="assunto" name="_subject"></div><br>
               <span class="erro"></span>
 
               <div class="txt2"><label><strong>Messagem:</strong></label></div><br>
-              <div><textarea class="editText" required name="comments" cols="15" rows="5"></textarea></div><br>
+              <div><textarea class="editText" required type="comments" cols="15" rows="5" name="message"></textarea></div><br>
               <span class="erro"></span>
 
-              <div><input class="button" required type="submit" onClick="openModal('dv-modal')" value="Enviar"></div><br>
-              <span class="erro"></span>
-
-              <input type="hidden" name="_next" value="http://localhost:5500/view/contateAgente.html">
+              <div><input class="button" required type="submit" onclick="validarFormulario(); openModal('dv-modal')"; value="Enviar"></div><br>
+ 
               <input type="hidden" name="_captcha" value="false">
               <input type="text" name="_honey" style="display:none">
+             
+              <input type="hidden" name="_next" value="http://localhost:5500/view/contateAgente.html">
+              
 
         </label>
       </div>
@@ -149,19 +154,21 @@
         </label>
     </article>
   </main>
+  
   <div id="dv-modal" class="modal">
     <div class="modal-content">
       <div class="modal-header" class="txtBlocoJustify">
-        <p class="txtModal">&nbsp; &nbsp;>> E-mail enviado com sucesso!</p>
+        <p class="txtModal">E-mail enviado!</p>
       </div>
       <div class="modal-body">
-        <p class="txtBlocoModal">Em breve a equipe do Cura Vício<br> entrará em contato, obrigado!</p>
+        <p class="txtBlocoModal">Em breve a equipe do Cura Vício entrará em contato, obrigado!</p>
       </div>
       <div class="modal-footer">
         <button class="button" onClick="closeModal('dv-modal')">Fechar</button>
       </div>
     </div>
   </div>
+
     <br>
     <br>
     <div class="separador"></div>
