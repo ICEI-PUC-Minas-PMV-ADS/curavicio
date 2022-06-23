@@ -10,7 +10,7 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** 
   - **Páginas Web** - Conjunto de arquivos ***HTML, CSS, JavaScript** e imagens.
    - **Local Storage** 
- - **News API** - ***Google Maps, Whatsapp e Google Meet***.
+ - **News API** - ***Google Maps, Formsubmit***.
  - **Hospedagem** - ***GitHub***. 
 
 
@@ -19,8 +19,8 @@ A solução implementada conta com os seguintes módulos:
 Utilizamos o Front-end no **GitHub**, que basicamente transforma dados numa interface gráfica 
 por intermédio do uso de linguagens de programação como **CSS**, **HTML** e **JavaScript**,também vários sites e programas como:
 **Microsoft Word**, **Microsoft Teams**, **Github Projects** , **Figma**, **LucidChart**, / **Whimsical**, **Google Maps**, **Whatsapp**, **Google Meet**, ao qual foram utilizados
-para gerenciar terefas, ***reuniões, criar organogramas, fluxogramas e design*** no decorrer do projeto. Também foi usado como referência de funcionalidades o
-aplicativo de celular ***Anonymo***, voltado para o tratamento de usuários de drogas. 
+para gerenciar tarefas, ***reuniões, criar organogramas, fluxogramas e design*** no decorrer do projeto. Também foi usado como referência de funcionalidades o
+aplicativo de celular ***Anonymos***, voltado para o tratamento de usuários de drogas. 
 
 
 ## Hospedagem
