@@ -36,7 +36,7 @@ As tabelas que se seguem apresentam os ***requisitos funcionais*** e ***não fun
 
 |**ID**     | **Descrição do Requisito**  | **Prioridade** |
 |-------|-----------------------------------------|----|
-|**RF-01**|O site deve apresentar uma ***lista de membros interdisciplinares***, para auxiliar ao tratamento de ***dependentes químicos***,***deve também possibilitar a busca de acordo com a especialização***,ou área de atuação destes proficionais.|**ALTA**| 
+|**RF-01**|O site deve apresentar uma ***lista de membros interdisciplinares***, para auxiliar ao tratamento de ***dependentes químicos***,***deve também possibilitar a busca de acordo com a especialização***, ou área de atuação destes profissionais.|**ALTA**| 
 |**RF-02**|O site deve possibilitar a ***busca de clínicas de tratamento e grupos de apoio a dependentes químicos por localidade***.|**MÉDIA**| 
 |**RF-03**|O site deve permitir ao **usuário**, ***visualizar notícias e informações sobre tratamento de dependências químicas***. |**MÉDIA**| 
 |**RF-04**|O site deve permitir ao **usuário**, ***entrar em contato com membros interdisciplinares***.|**MÉDIA**| 
