@@ -249,7 +249,8 @@ function validarFormulario() {
     alert("Campo nome é obrigatório!");
     form.nome.focus();
     return false;
-  } if (email == "") {
+  }
+  if (email == "") {
     alert("Campo e-mail é obrigatório!");
     form.email.focus();
     return false;
@@ -265,9 +266,21 @@ function validarFormulario() {
     alert("Campo texto é obrigatório!");
     form.submit.focus();
     return false;
-  } 
+  }
+  
+   return openModal('dv-modal')
 }
 
+
+// const nametrue = name == "";
+
+// if (nametrue == true) {
+//   openModal('dv-modal-preencha');
+// }
+// else (nametrue == false)
+// {
+//   closeModal('dv-modal-preencha');
+// }
 
 
 // const button = document.querySelector("button");
@@ -290,14 +303,15 @@ function render() {
 }
 
 
+
 function openModal(mn) {
   let modal = document.getElementById(mn);
 
   if (typeof modal == 'undefined' || modal === null)
     return;
 
-  modal.style.display = 'Block';
-  document.body.style.overflow = 'hidden';
+    modal.style.display = 'Block';
+    document.body.style.overflow = 'hidden';
 }
 
 function closeModal(mn) {
@@ -310,6 +324,7 @@ function closeModal(mn) {
   document.body.style.overflow = 'auto';
 
 }
+
 
 const fields = document.querySelectorAll("[required]")
 

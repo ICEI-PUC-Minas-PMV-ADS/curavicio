@@ -63,8 +63,9 @@
               <div><textarea class="editText" required type="comments" cols="15" rows="5" name="message"></textarea></div><br>
               <span class="erro"></span>
 
-              <div><input class="button" required type="submit" onclick="validarFormulario(); openModal('dv-modal')"; value="Enviar"></div><br>
+              <div><input class="button" required type="submit" onclick="validarFormulario();" value="Enviar"></div><br>
  
+               
               <input type="hidden" name="_captcha" value="false">
               <input type="text" name="_honey" style="display:none">
              
@@ -155,7 +156,23 @@
     </article>
   </main>
   
-  <div id="dv-modal" class="modal">
+  <!-- Modal alerta, preencha o formulário -->
+
+  <div id="dv-modal-preencha" class="modal">
+    <div class="modal-content">
+      <div class="modal-header" class="txtBlocoJustify">
+        <p class="txtModal">Primeiro preencha o formulário!</p>
+      </div>
+      <div class="modal-body">
+        <p class="txtBlocoModal">Desse modo a equipe do Cura Vício entrará em contato, obrigado!</p>
+      </div>
+      <div class="modal-footer">
+        <button class="button" onClick="closeModal('dv-modal')">Fechar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="dv-modal" class="modal" onclick="validarFormulario()";>
     <div class="modal-content">
       <div class="modal-header" class="txtBlocoJustify">
         <p class="txtModal">E-mail enviado!</p>
