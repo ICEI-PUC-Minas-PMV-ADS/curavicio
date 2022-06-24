@@ -2,26 +2,33 @@
 
 ## Diagrama de componentes
 
-Os componentes que fazem parte da solução são apresentados na **Imagem X**.
+O diagrama a seguir mostra a modelagem física do relacionamento entre os componentes da solução:
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/100388026/164993472-c4e61982-53ff-43e0-9417-a3cf07cdef5c.png)
+Exemplo:
+
+Os componentes que fazem parte da solução são apresentados na Figura 01.
+
+<img src="https://user-images.githubusercontent.com/86859418/175459310-a0835829-9971-469b-8418-90fe5151b667.jpg">
+Figura 01 - Arquitetura da Solução
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** 
   - **Páginas Web** - Conjunto de arquivos ***HTML, CSS, JavaScript** e imagens.
-   - **Local Storage** 
+   - **Local Storage** - Armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON.
  - **News API** - ***Google Maps, Formsubmit***.
- - **Hospedagem** - ***GitHub***. 
+ - **Hospedagem** - ***GitHub Pages***. 
 
 
 ## Tecnologias Utilizadas
 
-Utilizamos o Front-end no **GitHub**, que basicamente transforma dados numa interface gráfica 
-por intermédio do uso de linguagens de programação como **CSS**, **HTML** e **JavaScript**,também vários sites e programas como:
-**Microsoft Word**, **Microsoft Teams**, **Github Projects** , **Figma**, **LucidChart**, / **Whimsical**, **Google Maps**, **Whatsapp**, **Google Meet**, ao qual foram utilizados
-para gerenciar tarefas, ***reuniões, criar organogramas, fluxogramas e design*** no decorrer do projeto. Também foi usado como referência de funcionalidades o
-aplicativo de celular ***Anonymos***, voltado para o tratamento de usuários de drogas. 
-
+• Linguagens utlizadas para desenvolver o projeto: **HTML**, **CSS**, **JavaScript**
+• IDEs de desenvolvimento: **Visual Studio Code**
+• Plataforma para hospedagem do site: **GitHub Pages**
+• Plataforma para hospedagem dos arquivos: **GitHub**
+• Ferramenta de versionamento: **Git**
+• Ferramenta para a criação de logo e imagens: **Adobe Illustrator** e **Photoshop**
+• Ferramenta para crição de template: **Figma**, **LucidChart** e **AI**
+• Gerenciamento de reuniões e desenvolvimento: **Whatsapp**, **Microsoft Word**, **Microsoft Teams**, **Github Projects** 
 
 ## Hospedagem
 
