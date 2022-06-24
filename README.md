@@ -7,7 +7,7 @@
 ## `EIXO 1`
 
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/curavicio/issues/1#issuecomment-1165133697">
+<img src="https://user-images.githubusercontent.com/86859418/175451057-b9a73b5d-cd5b-47a8-9160-d0157d3ad383.jpg">
 
 
 Este projeto pretende contribuir com a redução do número de **dependentes químicos** no Brasil, desse modo o objetivo central é o desenvolvimento de uma ***plataforma web*** capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de **dependências químicas** de forma gratuita.
