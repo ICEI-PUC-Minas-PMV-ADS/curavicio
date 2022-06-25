@@ -28,7 +28,7 @@ MODELO PARA ARTIGO
 
 
 **Autor**:ESPOSTI, Hugo Cardoso. O Uso Abusivo de Anfetaminas por Estudantes Universitários.**Revista Científica** Multidisciplinar Núcleo do Conhecimento. Edição 04. Ano 02, Vol. 01. pp 05-14, Julho de 2017. ISSN:2448-0959 **Título**: O USO ABUSIVO DE ANFETAMINAS POR ESTUDANTES UNIVERSITÁRIOS **subtítulo**: (RESUMO
-1. INTRODUÇÃO, 2. A HISTÓRIA DA ANFETAMINA, 3. PORTARIA 344/98, 3.1 SUJEITA A NOTIFICAÇÃO DE RECEITA “A”, 3.2 SUJEITO A NOTIFICAÇÃO DE RECEITA “B”, 3.3 SUJEITAS A RECEITA MÉDICA SEM RETENÇÃO, 4. EFEITOS COLATERAIS E USO TERAPÊUTICO, 5. USO ABUSIVO, CONCLUSÃO) **Disponível** em:(https://www.nucleodoconhecimento.com.br/saude/uso-de-anfetaminas-universitarios), **Data e Hórario de Acesso**: (24/06/2022 as 20:51).
+1INTRODUÇÃO, 2. A HISTÓRIA DA ANFETAMINA, 3. PORTARIA 344/98, 3.1 SUJEITA A NOTIFICAÇÃO DE RECEITA “A”, 3.2 SUJEITO A NOTIFICAÇÃO DE RECEITA “B”, 3.3 SUJEITAS A RECEITA MÉDICA SEM RETENÇÃO, 4. EFEITOS COLATERAIS E USO TERAPÊUTICO, 5. USO ABUSIVO, CONCLUSÃO) **Disponível** em:(https://www.nucleodoconhecimento.com.br/saude/uso-de-anfetaminas-universitarios), **Data e Hórario de Acesso**: (24/06/2022 as 20:51).
 
 
 **Autor**:MEIRELES, Ana Cláudia Araújo; CINTRA JÚNIOR, Dorinaldo de Freitas. **Título**:Fatores de Risco para o Uso de Drogas: Considerações Sobre a Saúde Mental de Adolescentes Brasileiros. **Subtítulos**:1. Introdução,
