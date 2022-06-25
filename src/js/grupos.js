@@ -26,7 +26,7 @@ function writeClinicas() {
     },
     {
       "nome": "A. A. Grupo Hei de Vencer - 02",
-      "cidade": "Montes Claros",
+      "cidade": "Betim",
       "localizacao": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244542.59073387028!2d-43.99117056508605!3d-16.727950481603113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x754ab3fb9064655%3A0xf77ce2dfde33e3f8!2sCl%C3%ADnicas%20INdepend%C3%AAncia%20Qu%C3%ADmica%20Reabilita%C3%A7%C3%A3o%20e%20Tratamentos%20%C3%81lcool%20e%20Drogas!5e0!3m2!1spt-BR!2sbr!4v1652668249068!5m2!1spt-BR!2sbr",
     },
     {
