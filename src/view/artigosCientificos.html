@@ -58,7 +58,7 @@
                     outros fatores podem estar associados: ansiedade, angústia, insegurança, fácil acesso ao álcool e
                     condições culturais.</div><br>
                     <div>
-                      <button class="button" onclick="sendMail(); return false">ler Artigos</button>
+                      <button class="button" onclick="button">ler Artigos</button>
                     </div>
                 </div>
                 <br>
@@ -160,6 +160,23 @@
   </main>
   <div class="separador"></div>
   <div id="footer"></div>
+
+  <!-- Modal a ideia e serializar os JSON, AQUI E EXIBI-LOS NA TELA -->
+
+  <div id="dv-modal-preencha" class="modal">
+    <div class="modal-content">
+      <div class="modal-header" class="txtBlocoJustify">
+        <p class="txtModal">Primeiro preencha o formulário!</p>
+      </div>
+      <div class="modal-body">
+        <p class="txtBlocoModal">Desse modo a equipe do Cura Vício entrará em contato, obrigado!</p>
+      </div>
+      <div class="modal-footer">
+        <button class="button" onClick="closeModal('dv-modal')">Fechar</button>
+      </div>
+    </div>
+  </div>
+
 </body>
 
 </html>

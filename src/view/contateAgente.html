@@ -8,6 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script type="text/javascript" src="../js/menu.js"></script>
   <link rel="stylesheet" type="text/css" href="../css/style.css" media="screen">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </head>
 
 <body onload="render()">
@@ -41,7 +42,7 @@
               atendimento@curavicio.com.br<br><br><strong>> Parcerias:</strong><br>
               curavicio@curavicio.com.br<br><br><strong>> Doações:</strong><br> doacoes@curavicio.com.br
             </div><br><br>
-            <form name="form" action="https://formsubmit.co/d6b2af5c922f1e1312dc0130a68389f2" method="POST">
+            <form  name="form" action="https://formsubmit.co/d6b2af5c922f1e1312dc0130a68389f2" method="POST">
 
               <div class="txt2"><label><strong>Nome:</strong></label></div><br>
               <div><input class="inputText" required type="text" name="name"></div><br>
@@ -63,15 +64,14 @@
               <div><textarea class="editText" required type="comments" cols="15" rows="5" name="message"></textarea></div><br>
               <span class="erro"></span>
 
-              <div><input class="button" required type="submit" onclick="validarFormulario();" value="Enviar"></div><br>
+              <div><input class="button" required type="submit" onclick="validarFormulario()"; value="Enviar"></div><br>
  
                
               <input type="hidden" name="_captcha" value="false">
               <input type="text" name="_honey" style="display:none">
              
               <input type="hidden" name="_next" value="http://localhost:5500/view/contateAgente.html">
-              
-
+          </div>  
         </label>
       </div>
     </article>
@@ -172,7 +172,7 @@
     </div>
   </div>
 
-  <div id="dv-modal" class="modal" onclick="validarFormulario()";>
+  <div id="dv-modal" class="modal">
     <div class="modal-content">
       <div class="modal-header" class="txtBlocoJustify">
         <p class="txtModal">E-mail enviado!</p>

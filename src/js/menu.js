@@ -61,7 +61,7 @@ function writeFooter() {
 function writeClinicas() {
   const clinicas = [
     {
-      "id": 0,
+      "id": "0",
       "nome": "Clínica Novos Rumos",
       "cidade": "Belo Horizonte",
       "localizacao": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239924.46545868495!2d-44.34887078359374!3d-20.0160775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6c5aa63094bdd%3A0xc504871395d9e44c!2sCl%C3%ADnica%20Novos%20Rumos!5e0!3m2!1spt-BR!2sbr!4v1652667149467!5m2!1spt-BR!2sbr",
@@ -100,7 +100,7 @@ function writeClinicas() {
   ];
   function handleSelectCities(event) {
     const clinicaSelecionada = event.target.value;
-    const primeiroLista = clinicas.slice(0);
+    const primeiroLista = clinicas.slice("0");
     const container = document.getElementById('clinicas');
     let htmlClinicas = ""
 
@@ -266,9 +266,15 @@ function validarFormulario() {
     alert("Campo texto é obrigatório!");
     form.submit.focus();
     return false;
-  }
-  
-   return openModal('dv-modal')
+  } 
+
+  $('form#id').submit(function (e) {
+    $(this).children('input[type=submit]').attr('disabled', 'disabled');
+    e.preventDefault();
+    return false;
+  });
+
+  return openModal('dv-modal');
 }
 
 
@@ -297,12 +303,40 @@ function validarFormulario() {
 function render() {
   document.getElementById("header").innerHTML = writeMenu();
   document.getElementById("footer").innerHTML = writeFooter();
-  document.getElementById("clinicas").innerHTML = writeClinicas();
-  document.getElementById("membros").innerHTML = writeMembros();
-  document.getElementById("grupos").innerHTML = writeGrupo();
+  //document.getElementById("clinicas").innerHTML = writeClinicas();
+  //document.getElementById("membros").innerHTML = writeMembros();
+  //document.getElementById("grupos").innerHTML = writeGrupo();
 }
 
+function renderIndex(){
+  render();
 
+}
+
+function renderMembros()
+{
+  render();
+  selectMembros();
+}
+
+function selectMembros()
+{
+  var select = "<select id='lista-membros'>";
+  select+="<option>Selecione um Membro:</option>";
+
+  fetch("../json/array-membros.json")
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (data) {
+    for (let i = 0; i < data.length; i++) {
+      //console.log(data[i]);
+      select += "<option value='" + data[i].id + "'>" + data[i].nome + "</option>";
+    }
+    select += "</select>";
+    document.getElementById("div-select-membros").innerHTML = select;
+  })
+}
 
 function openModal(mn) {
   let modal = document.getElementById(mn);
@@ -310,8 +344,8 @@ function openModal(mn) {
   if (typeof modal == 'undefined' || modal === null)
     return;
 
-    modal.style.display = 'Block';
-    document.body.style.overflow = 'hidden';
+  modal.style.display = 'Block';
+  document.body.style.overflow = 'hidden';
 }
 
 function closeModal(mn) {
@@ -363,6 +397,17 @@ for (field of fields) {
   })
 }
 
+
+
+// var btn = document.querySelector('button');
+
+// btn.onclick = openModal('dv-modal');
+
+
+
+
+
+  
 
 
 

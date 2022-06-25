@@ -453,6 +453,50 @@ input:checked + .collapse {
     width: 100%;
 }
 
+.button {
+    box-shadow: inset 0px -3px 7px 0px #29bbff;
+    background: linear-gradient(to bottom, #00ccff 5%, #20b2f1 100%);
+    background-color: #84c5eb;
+    border-radius: 3px;
+    border: 1px solid #0ae5f5;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: x-small;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+.div-select {
+    width: 250px;
+    overflow: hidden;
+}
+
+.div-select select {
+    box-shadow: inset 0px -3px 7px 0px #29bbff;
+    background: linear-gradient(to bottom, #00ccff 5%, #20b2f1 100%);
+    background-color:#65d5ee ;
+    width: 270px;
+    border-radius: 3px;
+    border: 1px #0ae5f5;
+    border-collapse: 3px #0ae5f5;
+    border-width:2px #0ae5f5;
+    height: 48px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 13px 20px 13px 12px;
+    color: #fff;
+    text-indent: 0.01px;
+    text-overflow: "";
+}
+
+.div-select select::-ms-expand {
+    display: none;
+}
+
 .collapseLinks {
     height: 0px;
     overflow:scroll;
@@ -475,7 +519,7 @@ input:checked + .collapseLinks {
     width: 100vw;
     height:100vh;
     display: none;
-    
+
 }
 
 .modal-content {
@@ -493,8 +537,7 @@ input:checked + .collapseLinks {
     padding: 10px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
-    flex-wrap: wrap;
-    display: flex;
+    
 }
 
 .modal-body {
