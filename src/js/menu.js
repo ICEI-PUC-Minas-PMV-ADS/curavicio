@@ -4,7 +4,7 @@ function writeMenu() {
     "<ul class='menu'>" +
     "<div class='flexmenu'>" +
     "<p>" +
-    "<a href='/view/index.html'><img src='../img/logo-cura-vicio.png' title='Home' class='imgLogo'></a>" +
+    "<a href='../view/index.html'><img src='../img/logo-cura-vicio.png' title='Home' class='imgLogo'></a>" +
     "</p>" +
     "<ul>" +
     "<p>&nbsp; &nbsp; &nbsp; &nbsp;</p>" +
