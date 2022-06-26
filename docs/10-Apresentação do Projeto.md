@@ -12,6 +12,9 @@ Nome e marca do projeto
 
 O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
+![1 - Copia](https://user-images.githubusercontent.com/100388026/175796790-0c287f74-7ab5-4c19-927c-5a6bc679290f.png)
+
+
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
 > - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
