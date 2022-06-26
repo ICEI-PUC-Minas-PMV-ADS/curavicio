@@ -4,10 +4,10 @@
 <head>
   <title>Cura Vício - Grupos de Apoio</title>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, , shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script type="text/javascript" src="../js/menu"></script>
   <link rel="stylesheet" type="text/css" href="../css/style.css" media="screen">
+  <script type="text/javascript" src="../js/grupos.js"></script>
 </head>
 
 <body onload="render()">
@@ -18,7 +18,7 @@
     <article class="flexBannerMkt">
       <p>
       <p class="txtMain">
-        Aqui você terá informações sobre<br> os Grupos de Apoio<br>mais próximos de você
+        Aqui você terá informações sobre<br> os <strong>Grupos de Apoio</strong><br>mais próximos de você
       </p>
       </p>
       <br>
@@ -31,7 +31,8 @@
       <div class=txt1> >> Escolha a sua cidade:</div>
     </article>
     <article class="flextxt">
-      <div class="listasgrupos">
+      <div class="listaclinicas">
+        <div class="div-select">
         <select id="lista-grupos">
           <option value="Belo Horizonte">Belo Horizonte</option>
           <option value="Uberlândia">Uberlândia</option>
@@ -40,15 +41,17 @@
           <option value="Betim">Betim</option>
           <option value="Montes Claros">Montes Claros</option>
         </select>
+        </div>
       </div>
     </article>
     <article class="flextxt">
-    <div id="grupo"></div>
+    <div id="grupos"></div>
     </article>
 
   </main>
   <div class="separador"></div>
   <div id="footer"></div>
+    <script type="text/javascript" src="../js/menu.js"></script>
 </body>
 
 </html>
