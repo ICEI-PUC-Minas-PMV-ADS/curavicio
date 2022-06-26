@@ -17,7 +17,9 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 sEGUNDO texto
 TEXTOS ORIGINAIS CuraVcio
-**Funcionalidades**
+
+# Programação de Funcionalidades
+
  As telas  clinicas e grupos de apoio apresenta um mecanismo que permite renderiza 
 mapas sendo possível o usuário fazer a pesquisa de acordo com sua região ou 
 proximidade, pois foi pensado dessa maneira para que o dependente tenha mais 
