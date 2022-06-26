@@ -11,4 +11,21 @@ Utilizando o navegador conseguimos fazer uma auditoria por meio da ferramenta do
 |**Critérios de Êxito**   | Para atender aos critérios o site deve ser acessível pelo navegador seja ele chrome, edge, ou mozilla e permitir navegar pelo Menu e links disponíveis |Links abre corretamente, a tela é responsiva. |
 
 
+|**Casos de Teste **      |                     |                     |
+|-------------------------| ------------------- | ------------------- |
+|**Telas Testadas**       |                     |                     |
+|**Requisitos Associados**|                     |                     |
+|**Objetivo do Teste**    |                     |                     |
+|**Passos**               |                     |                     |
+|**Critérios de Êxito**   |                     |                     |
+
+
+|**Casos de Teste **      |                     |                     |
+|-------------------------| ------------------- | ------------------- |
+|**Telas Testadas**       |                     |                     |
+|**Requisitos Associados**|                     |                     |
+|**Objetivo do Teste**    |                     |                     |
+|**Passos**               |                     |                     |
+|**Critérios de Êxito**   |                     |                     |
+
 
