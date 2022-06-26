@@ -18,30 +18,35 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 sEGUNDO texto
 TEXTOS ORIGINAIS CuraVcio
 
+# Programação de Funcionalidades
+
  As telas  clinicas e grupos de apoio apresenta um mecanismo que permite renderiza 
 mapas sendo possível o usuário fazer a pesquisa de acordo com sua região ou 
 proximidade, pois foi pensado dessa maneira para que o dependente tenha mais 
 facilidade e agilidade em conseguir ajuda.
  Também utilizamos na tela contate a gente uma funcionalidade que permite o usuário 
-enviar e-mail diretamente para conta real vinculada ao site Cura Vício, permitindo 
+e'nviar e-mail diretamente para conta real vinculada ao site Cura Vício, permitindo 
 assim um certo contato com o nosso pessoal.
 
 
-Instruções de acesso
+**Instruções de acesso**
 
 A partir de qualquer tela nas opções do Menu vá para opção Grupo de Apoio.
 Requisitos atendidos
 *******************************
+
 ADICIONAR OS:
-Artefatos da funcionalidade
-index.html
-index.js
-template.css
-logo.png
+
+
+**Artefatos da funcionalidade**
+- index.html
+- index.js
+- template.css
+- logo.png
 
 
 
-Instruções de acesso
+**Instruções de acesso**
 
 A partir de qualquer tela nas opções do Menu vá para opção clinicas
 de tratamento.
@@ -50,26 +55,30 @@ Requisitos atendidos
 *******************************
 
 ADICIONAR OS:
-Artefatos da funcionalidade
-mapa.html
-mapa.js
-mapa.css
-template.css
-logo.png
+
+
+**Artefatos da funcionalidade**
+- mapa.html
+- mapa.js
+- mapa.css
+- template.css
+- logo.png
 
 
 
 
 
-Instruções de acesso
+**Instruções de acesso**
 
 A partir de qualquer tela nas opções do Menu vá para opção Contate a Gente.
 
-Requisitos atendidos
+**Requisitos atendidos**
 *******************************
 ADICIONAR OS:
-Artefatos da funcionalidade
-index.html
-index.js
-template.css
-logo.png
+
+
+**Artefatos da funcionalidade**
+- index.html
+- index.js
+- template.css
+- logo.png
