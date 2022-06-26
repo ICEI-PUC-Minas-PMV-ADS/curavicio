@@ -11,21 +11,24 @@ Utilizando o navegador conseguimos fazer uma auditoria por meio da ferramenta do
 |**Critérios de Êxito**   | Para atender aos critérios o site deve ser acessível pelo navegador seja ele chrome, edge, ou mozilla e permitir navegar pelo Menu e links disponíveis |Links abre corretamente, a tela é responsiva. |
 
 
-|**Casos de Teste **      |                     |                     |
-|-------------------------| ------------------- | ------------------- |
-|**Telas Testadas**       |                     |                     |
-|**Requisitos Associados**|                     |                     |
-|**Objetivo do Teste**    |                     |                     |
-|**Passos**               |                     |                     |
-|**Critérios de Êxito**   |                     |                     |
+| **Casos de Teste 2**      |                     |
+| ------------------------- | ------------------- |
+| **Telas Testadas**        |   Blog Cura Vício   |
+| **Requisitos Associados** |     RF-03           |
+| **Objetivo do Teste**     |  Verificar se há erro no código.                   | 
+| **Passos**                | 1º Abra o navegador, 
+2º Instale a extensão LightHouse no navegador,
+3º Click no ícone da Extensão,
+4º Generate Report                    | 
+| **Critérios de Êxito**    | Espera-se zero de erro para alcance do êxito                | 
 
 
-|**Casos de Teste **      |                     |                     |
-|-------------------------| ------------------- | ------------------- |
-|**Telas Testadas**       |                     |                     |
-|**Requisitos Associados**|                     |                     |
-|**Objetivo do Teste**    |                     |                     |
-|**Passos**               |                     |                     |
-|**Critérios de Êxito**   |                     |                     |
+| **Casos de Teste 3**      |                     |                     |
+| ------------------------- | ------------------- | ------------------- |
+| **Telas Testadas**        |                     |                     |
+| **Requisitos Associados** |                     |                     |
+| **Objetivo do Teste**     |                     |                     |
+| **Passos**                |                     |                     |
+| **Critérios de Êxito**    |                     |                     |
 
 
