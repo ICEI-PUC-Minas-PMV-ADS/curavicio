@@ -16,10 +16,7 @@ Utilizando o navegador conseguimos fazer uma auditoria por meio da ferramenta do
 | **Telas Testadas**        |   Blog Cura Vício   |
 | **Requisitos Associados** |     RF-03           |
 | **Objetivo do Teste**     |  Verificar se há erro no código.                   | 
-| **Passos**                | 1º Abra o navegador, 
-2º Instale a extensão LightHouse no navegador,
-3º Click no ícone da Extensão,
-4º Generate Report                    | 
+| **Passos**                | Pressione a tecla F12 e cosiguirá ver messagens de usuários, alerta, erro e informações.                   | 
 | **Critérios de Êxito**    | Espera-se zero de erro para alcance do êxito                | 
 
 
