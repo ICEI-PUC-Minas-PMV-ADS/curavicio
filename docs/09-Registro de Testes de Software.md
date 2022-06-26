@@ -77,3 +77,9 @@ Página Clinicas
 Página Membros Interdiciplinares
 
 ![Clinicas - Copia](https://user-images.githubusercontent.com/100388026/173271553-fb85f328-fad9-416e-aefd-0e6fba968c20.png)
+
+# ***Print Screen Verificação de Erro no código***
+
+![SemMensagensDeErros](https://user-images.githubusercontent.com/100388026/175798423-950b3bb3-0b1e-444c-aa5d-9c89ed793c68.png)
+
+
