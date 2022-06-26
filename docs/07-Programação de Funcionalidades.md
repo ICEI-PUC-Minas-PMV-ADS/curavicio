@@ -13,3 +13,14 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+
+Primeiro texto Base
+
+Com o mapas renderizado foi possível o usuário encontrar clinicas e grupos de apoio de acordo
+com sua região ou proximidade, pois foi pensado dessa maneira para que o dependente tenha mais
+facilidade e agilidade em conseguir ajuda.
+
+ Também utilizamos na tela contate a gente uma funcionalidade que permite o usuário enviar
+e-mail diretamente para conta real vinculada ao site Cura Vício, permitindo assim um certo 
+contato com o nosso pessoal.

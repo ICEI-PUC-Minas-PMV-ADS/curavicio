@@ -6,6 +6,10 @@
 
 ## `EIXO 1`
 
+
+![1 - Copia](https://user-images.githubusercontent.com/100388026/175796790-0c287f74-7ab5-4c19-927c-5a6bc679290f.png)
+
+
 Este projeto pretende contribuir com a redução do número de **dependentes químicos** no Brasil, desse modo o objetivo central é o desenvolvimento de uma ***plataforma web*** capaz de atender aos usuários interessados, entregando informações relevantes para cada contexto de **dependências químicas** de forma gratuita.
 
 ## Integrantes
