@@ -6,9 +6,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script type="text/javascript" src="../js/menu.js"></script>
-  <script type="text/javascript" src="../js/grupos.js"></script>
   <link rel="stylesheet" type="text/css" href="../css/style.css" media="screen">
+  <script type="text/javascript" src="../js/grupos.js"></script>
 </head>
 
 <body onload="render()">
@@ -33,7 +32,8 @@
     </article>
     <article class="flextxt">
       <div class="listaclinicas">
-        <select id="lista-clinicas">
+        <div class="div-select">
+        <select id="lista-grupos">
           <option value="Belo Horizonte">Belo Horizonte</option>
           <option value="Uberlândia">Uberlândia</option>
           <option value="Contagem">Contagem</option>
@@ -45,12 +45,13 @@
       </div>
     </article>
     <article class="flextxt">
-    <div id="clinicas"></div>
+    <div id="grupos"></div>
     </article>
 
   </main>
   <div class="separador"></div>
   <div id="footer"></div>
+    <script type="text/javascript" src="../js/menu.js"></script>
 </body>
 
 </html>

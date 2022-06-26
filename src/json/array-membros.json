@@ -2,8 +2,8 @@
     {
        "id":1,
        "nome":"Marília Mendes",
-       "profissão":"Psicóloga",
-       "e-mail":"mariliamendes@gmail.com",
+       "profissao":"Psicóloga",
+       "email":"mariliamendes@gmail.com",
        "telefone":"(31) 9 7586-2512 ",
        "uf":"MG",
        "cidade":"Belo Horizonte"
@@ -11,8 +11,8 @@
     {
        "id":2,
        "nome":"Eliana Sanches",
-       "profissão":"Pedagoga",
-       "e-mail":"elianasanches@ig.com.br",
+       "profissao":"Pedagoga",
+       "email":"elianasanches@ig.com.br",
        "telefone":"(31) 9 7126-2552 ",
        "uf":"MG",
        "cidade":"Contagem"
@@ -20,8 +20,8 @@
     {
        "id":3,
        "nome":"João da Silva",
-       "profissão":"Empresário",
-       "e-mail":"joaodasilvamadeiras@uol.com.br",
+       "profissao":"Empresário",
+       "email":"joaodasilvamadeiras@uol.com.br",
        "telefone":"(31) 9 9626-2002 ",
        "uf":"MG",
        "cidade":"Uberlândia"
@@ -29,8 +29,8 @@
     {
        "id":4,
        "nome":"Izak Menezes",
-       "profissão":"Cabeleireiro",
-       "e-mail":"isakmenezescortes@hotmail.com",
+       "profissao":"Cabeleireiro",
+       "email":"isakmenezescortes@hotmail.com",
        "telefone":"(31) 9 9556-2882 ",
        "uf":"MG",
        "cidade":"Juíz de Fora"
@@ -38,8 +38,8 @@
     {
        "id":5,
        "nome":"Charles Manson",
-       "profissão":"Médico",
-       "e-mail":"charlesmanson@bol.com.br",
+       "profissao":"Médico",
+       "email":"charlesmanson@bol.com.br",
        "telefone":"(31) 9 9506-1880 ",
        "uf":"MG",
        "cidade":"Betim"
@@ -47,8 +47,8 @@
     {
        "id":6,
        "nome":"Inocêncio Girafales",
-       "profissão":"Professor",
-       "e-mail":"professorgirafales@yahoo.com",
+       "profissao":"Professor",
+       "email":"professorgirafales@yahoo.com",
        "telefone":"(31) 9 9211-5580 ",
        "uf":"MG",
        "cidade":"Montes Claros"
