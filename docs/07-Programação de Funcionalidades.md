@@ -32,7 +32,10 @@ Instruções de acesso
 A partir de qualquer tela nas opções do Menu vá para opção Grupo de Apoio.
 Requisitos atendidos
 *******************************
+
 ADICIONAR OS:
+
+
 Artefatos da funcionalidade
 - index.html
 - index.js
@@ -50,6 +53,8 @@ Requisitos atendidos
 *******************************
 
 ADICIONAR OS:
+
+
 Artefatos da funcionalidade
 - mapa.html
 - mapa.js
@@ -68,6 +73,8 @@ A partir de qualquer tela nas opções do Menu vá para opção Contate a Gente.
 Requisitos atendidos
 *******************************
 ADICIONAR OS:
+
+
 - Artefatos da funcionalidade
 - index.html
 - index.js
