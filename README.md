@@ -27,9 +27,9 @@ Este projeto pretende contribuir com a redução do número de **dependentes qu�
 
 ## Instruções de utilização
 
-Site publicado na Internet
-Acesse o projeto pelo computador ou pelo celular
-Browser compatível: Chrome, Firefox e Edge
+* Site publicado na Internet
+* Acesse o projeto pelo computador ou pelo celular
+* Browser compatível: Chrome, Firefox e Edge
 
 # Documentação
 
