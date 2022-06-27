@@ -156,7 +156,7 @@ function carregarMembro()
   var membro = dadosMembros[element];
   //console.log(dadosMembros[element]);
   var dadosMembro = 
-  "<div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>" +
+  "<div class='txtBlocoJustify' class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>" +
   "<b>" + membro.nome + "</b><br />" +
   "<ul>" +
   "<li>" + membro.profissao + "</li>" +

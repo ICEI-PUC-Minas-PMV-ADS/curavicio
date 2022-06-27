@@ -95,6 +95,13 @@ li {
     border-radius: 35px;
 }
 
+.separador2 {
+    width: 100%;
+    background: rgb(255, 255, 255, 0, 100%) ;
+    padding: 120px;
+    border-radius: 35px;
+}
+
 .flexmenu {
     gap: 25px;
     padding: 35px;
@@ -217,11 +224,8 @@ li {
 }
 
 .boxTextP {
-
     position: relative;
-    height: auto;
     max-width: 350px;
-    
     display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 17px;
@@ -237,13 +241,6 @@ li {
     flex: 1 1 350px;
     flex-wrap:wrap;
 }
-
-
-/* .embed-container p,
-.embed-container {
-    width: 300px;
-    text-align: center;
-} */
 
 .configImgBanner {
     position: relative;
@@ -316,7 +313,7 @@ li {
 }
 
 .flexBannerMktblog2 {
-    gap: 15px;
+    gap: 80px;
     padding: 35px;
     
     display: flex;
@@ -337,6 +334,7 @@ li {
     margin-right: 10px;
 
 }
+
 
 .flexBannerMktblog3 {
     gap: 15px;
@@ -506,6 +504,18 @@ a{
     line-height: 1.6;
     color: rgb(81, 94, 84);
 }
+
+.txtBlocoJustify2 {
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    text-align:justify;
+    text-justify:distribute;
+    padding-top: 10px;
+    line-height: 1.6;
+    color: rgb(81, 94, 84);
+}
+
 
 .italico {
     font-weight: lighter;
