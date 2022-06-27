@@ -64,7 +64,7 @@ As ferramentas empregadas no projeto estão descritas na tabela abaixo:
 |**FUNÇÃO**| **PLATAFORMA** |**LINK DE ACESSO**|
 |--------------------|------------------------------------|----------------------------------------|
 |**Repositório de Código Fonte**|**GitHub**|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
-|**User Flow**|**LucidChart**|https://www.lucidchart.com/|
+|**User Flow**|**Figma**|https://www.figma.com/|
 |**Projeto de Interface - Wireframe**|**Figma**|https://www.figma.com/|
 |**Editor de Código**|**VS Code**|https://code.visualstudio.com/|
 |**Documentação de projeto**|**GitHub**|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-cura-vicio|
