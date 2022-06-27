@@ -1,22 +1,10 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+**Autor**: **Título**:Eixo 1 - Microfundamento: Desenvolvimento Web Front-End  **subtítulo**: ( Tema 1: Fundamentos da Web, Histórico e evolução da Web, W3C e os Padrões da WebTema 2: Arquitetura da Web, Componentes da Arquitetura da Web, URI, URL e URN,Protocolo HTTPServidores Web, Dinâmica de Aplicações Web,Tema 3: Ambiente de Trabalho, Visual Studio Code,Tema 1: Linguagem HTML, A linguagem HTML, Elementos de texto e multimídia,Elementos estruturais,Elementos de tabelas,Elementos de formulários,Tema 2: Linguagem CSS,A Linguagem CSS,Seletores de Elementos,Valores e Unidades,Display e o Box Model,Propriedades de Texto,Layouts ResponsivosFrameworks front-end - Bootstrap,Tema 3: Linguagem JavaScript,A linguagem JavaScript,Variáveis e Tipos de Dados,Controle de Fluxo,Funções,Document Object Model (DOM),A notação de Objetos (JSON),Programação Ajax.) **Disponível** em:(https://pucminas.instructure.com/courses/49013), **Data de Acesso**: (04/20222).
 
 
-
-Caso o artigo que você queira citar esteja disponível na internet, é preciso especificar onde ele pode ser encontrado e o momento exato em que você o acessou.
-
-SOBRENOME, Nome Abreviado. Título: subtítulo (se houver). Nome do site, ano. Disponível em: (link). Acesso em: (data)
-
-
-MODELO PARA ARTIGO
-**Autor**: **Título**:  **subtítulo**: ( ) **Disponível** em:(), **Data e Hórario de Acesso**: ().
-
-# Referências
+**Autor**: ALBUQUERQUE**Título**:R. Aumenta em 250% a busca por tratamento contra
+drogas no Amazonas.  **Disponível** em:( < http://www.pt.shvoong.com/medicineand-health/>), **Data**: (12/03/2022).
 
 
 **Autor**: K. Stone **Título**:	Sistema de Registro em Curso Plano de Teste para o Protótipo de Arquitetura  **subtítulo**: ( Objetivos, Requisitos para o Teste, Estratégia do Teste, Recursos, Marcos do Projeto, Produtos de Trabalho, Tarefas do Projeto) **Disponível** em:(https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/#:~:text=Para%20fazer%20a%20refer%C3%AAncia%20de,data%20de%20publica%C3%A7%C3%A3o%20da%20obra.), **Data de Acesso**: (10/06/2022).
@@ -33,3 +21,5 @@ MODELO PARA ARTIGO
 
 **Autor**:MARIANO, Thaís Oliveira; CHASIN, Alice A. M. **Título**: DROGAS PSICOTRÓPICAS E SEUS EFEITOS SOBRE O SISTEMA
 NERVOSO CENTRAL **subtítulo** ( INTRODUÇÃO, CLASSIFICAÇÃO DAS DROGAS PSICOTRÓPICAS E OS EFEITOS NO SNC, Depressores do Sistema Nervoso Central, Estimulantes do Sistema Nervoso Central, Perturbadores do Sistema Nervoso Central, Alucinógenos, CONSIDERAÇÕES FINAIS) **Disponível** em:(https://oswaldocruz.br/revista_academica/content/pdf/Edicao_22_TAIS_OLIVEIRA_MARIANO.pdf), **Data e Hórario de Acesso**: (25/06/2022 as 15:47).
+
+**Autor**:Ministério da Súde **Título**: Prevenção do suicídio **Disponível** em:(https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/), **Data de Acesso**: (14/04/2022).
