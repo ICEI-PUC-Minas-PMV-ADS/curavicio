@@ -42,7 +42,7 @@ A equipe escolheu o ***SCRUM***, uma ***metodologia ágil***, como base para o *
 
 ### Processo
 
-Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  ***TRELLO*** estruturado com as seguintes listas:
+Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o  ***Projects*** do próprio GitHub, estruturado com as seguintes listas:
 
 ● **Product Backlog**:  lista ordenada de todos os requisitos que se tem conhecimento de que precisam estar no produto. Cada tarefa está associada a um ***'milestone'***, que pressupõe uma entrega final.
 
