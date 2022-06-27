@@ -39,11 +39,6 @@ RF-05 :  O site deve apresentar, uma lista de clínicas especializadas e grupos 
 - template.css
 - logo.png
 
-
-# Dependências Químicas - RF-03
-
-<img src="https://user-images.githubusercontent.com/86859418/175848075-40cd7d95-a338-4d5a-af33-3751a71eeaf5.jpg">
-
 # Clínicas
 
 **Instruções de acesso**
@@ -66,6 +61,14 @@ RF-02 : O site deve possibilitar a busca de clínicas de tratamento e grupos de 
 - template.css
 - logo.png
 
+
+# Dependências Químicas - RF-03
+
+<img src="https://user-images.githubusercontent.com/86859418/175848075-40cd7d95-a338-4d5a-af33-3751a71eeaf5.jpg">
+
+# Artigos Científicos por dependência química - RF-06
+
+<img src="https://user-images.githubusercontent.com/86859418/175848942-99eaaace-f6b0-4b33-b3e2-65b922182f8d.jpg">
 
 # Contate a Gente
 **Instruções de acesso**
