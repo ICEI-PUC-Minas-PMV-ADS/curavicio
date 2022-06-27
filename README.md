@@ -27,7 +27,9 @@ Este projeto pretende contribuir com a redução do número de **dependentes qu�
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Site publicado na Internet
+Acesse o projeto pelo computador ou pelo celular
+Browser compatível: Chrome, Firefox e Edge
 
 # Documentação
 
