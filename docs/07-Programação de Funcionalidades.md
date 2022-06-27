@@ -40,6 +40,10 @@ RF-05 :  O site deve apresentar, uma lista de clínicas especializadas e grupos 
 - logo.png
 
 
+# Dependências Químicas - RF-03
+
+<img src="https://user-images.githubusercontent.com/86859418/175848075-40cd7d95-a338-4d5a-af33-3751a71eeaf5.jpg">
+
 # Clínicas
 
 **Instruções de acesso**
