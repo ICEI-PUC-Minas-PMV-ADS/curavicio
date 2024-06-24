@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Travel Trace
+authors:
+  - family-names: Nakhata
+    given-names: Gabriel
+  - family-names: Duarte
+    given-names: Gervasio
+  - family-names: Freitas
+    given-names: Pedro
+  - family-names: Lobo
+    given-names: Tiago
+  - family-names: Oliveira
+    given-names: Vinicius
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Carvalho
+    given-names: Joyce
+keywords:
+  - Ajuda
+  - Apoio
+  - Tratamento
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/curavicio
+version: 1.0.0
+date-released: 2022-06-20
